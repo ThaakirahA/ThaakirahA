@@ -2,13 +2,13 @@
 
 <!-- Typing animation banner -->
 <a href="https://github.com/ThaakirahA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+YOUR_NAME;role+%3D%3E+Software+Engineer;status+%3D%3E+building+cool+things;sudo+make+coffee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+Thaakirah;role+%3D%3E+Software+Engineer;status+%3D%3E+building+cool+things;sudo+make+coffee" alt="Typing SVG" />
 </a>
 
 </div>
 
 ```bash
-guest@github:~$ ssh YOUR_USERNAME@dev
+guest@github:~$ ssh ThaakirahA@dev
 Last login: $(date) from terminal
 Connecting to profile... [OK]
 
@@ -17,7 +17,7 @@ guest@github:~$ cat about.txt
 
 ```yaml
 name:      Thaakirah
-role:      Software Engineer 
+role:      Software Engineer
 location:  Cape Town, ZA
 focus:     backend systems, dev tooling, open source
 currently: [ shipping | debugging | learning something new ]
