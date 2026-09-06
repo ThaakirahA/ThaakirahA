@@ -1,67 +1,101 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thaakirah+%F0%9F%91%8B;Frontend+%2F+Software+Engineer;Building+clean%2C+usable+interfaces;Always+learning+something+new" alt="Typing SVG" />
+# Hi, I'm Thaakirah 👋
 
-<br/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Frontend+%2F+Software+Engineer;Building+clean%2C+usable+interfaces;Turning+ideas+into+code;Always+learning+something+new"
+  alt="Typing introduction"
+/>
 
-<img src="https://img.shields.io/badge/Frontend%20Engineer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Cape%20Town%2C%20ZA-282c34?style=for-the-badge&logo=googlemaps&logoColor=61DAFB" />
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Frontend%20Engineer-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+  alt="Frontend Engineer"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/Cape%20Town%2C%20ZA-282C34?style=for-the-badge&logo=googlemaps&logoColor=61DAFB"
+  alt="Cape Town"
+/>
 
 </div>
 
-<br/>
+<br>
 
-## About me
+---
 
-- 🎓 Multimedia graduate, currently an honours student in Software Engineering
-- 💻 Frontend-leaning software engineer — I like clean UI and code that reads well
-- 🌱 Always learning something new
-- 🚀 Open to interesting projects and collaborations
+## 👩🏽‍💻 About Me
 
-<br/>
+🎓 Multimedia graduate & currently an **Honours student in Software Engineering**
 
-## Tech stack
+💻 Frontend-leaning software engineer with a focus on **clean UI, usability and readable code**
+
+🌱 Constantly learning, experimenting and improving my craft
+
+🚀 Open to **interesting projects, collaborations and new ideas**
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,figma,git,vscode,postgres" />
+<img
+  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,figma,git,vscode,postgres"
+  alt="JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, Node.js, Figma, Git, VS Code and PostgreSQL"
+/>
 
 </div>
 
-<br/>
+<br>
 
-<p align="center">
-  <img
-    src="./assets/happy-cute-purple-cat-neon-keyboard.svg"
-    width="100%"
-    alt="Animated Welcome Geeks cyberpunk keyboard"
-  />
-</p>
- 
-## Contribution snake 🐍
+---
+
+<div align="center">
+
+<img
+  src="./assets/happy-cute-purple-cat-neon-keyboard.svg"
+  width="100%"
+  alt="Animated purple cat typing Welcome Geeks on a neon keyboard"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/ThaakirahA/ThaakirahA/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
+<img
+  src="https://raw.githubusercontent.com/ThaakirahA/ThaakirahA/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub contribution snake"
+/>
 <!--END_SECTION:snake-->
 
 </div>
 
-<br/>
+<br>
 
-## Let's connect
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ThaakirahA)
+&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akirah_design)
-[![Email](https://img.shields.io/badge/Email-282c34?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:thaakirahagherdien1414@gmail.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-282C34?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:thaakirahagherdien1414@gmail.com)
 
-</div>
+<br><br>
 
-<br/>
+<img
+  src="https://komarev.com/ghpvc/?username=ThaakirahA&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS"
+  alt="Profile views"
+/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ThaakirahA&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS" />
 </div>
