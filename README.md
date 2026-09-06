@@ -32,9 +32,9 @@
 
  <p align="center">
   <img
-    src="./cyberpunk-purple-cat-neon-blue-keyboard.svg"
+    src="./cinematic-purple-cat-neon-blue-keyboard.svg"
     width="100%"
-    alt="Welcome Geeks animated neon keyboard"
+    alt="Animated Welcome Geeks cyberpunk keyboard"
   />
 </p>
  
