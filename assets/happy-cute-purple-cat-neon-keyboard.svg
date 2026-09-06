@@ -1,1 +1,231 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430">
+    <stop stop-color="#03040A"/>
+    <stop offset=".52" stop-color="#080918"/>
+    <stop offset="1" stop-color="#02040B"/>
+  </linearGradient>
 
+  <linearGradient id="catPurple" x1="500" y1="35" x2="700" y2="150">
+    <stop stop-color="#7B2DFF"/>
+    <stop offset=".5" stop-color="#5014B6"/>
+    <stop offset="1" stop-color="#25064F"/>
+  </linearGradient>
+
+  <filter id="blueGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <filter id="purpleGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="18"/>
+  </filter>
+
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".85"/>
+  </filter>
+
+  <style>
+    .board{transform-origin:600px 260px;animation:float 4.4s ease-in-out infinite}
+    .key{transform-box:fill-box;transform-origin:center}
+    .p1{animation:press 3.2s ease-in-out infinite 0s}
+    .p2{animation:press 3.2s ease-in-out infinite .13s}
+    .p3{animation:press 3.2s ease-in-out infinite .26s}
+    .p4{animation:press 3.2s ease-in-out infinite .39s}
+    .p5{animation:press 3.2s ease-in-out infinite .52s}
+    .p6{animation:press 3.2s ease-in-out infinite .65s}
+    .p7{animation:press 3.2s ease-in-out infinite .78s}
+    .p8{animation:press 3.2s ease-in-out infinite 1.02s}
+    .p9{animation:press 3.2s ease-in-out infinite 1.15s}
+    .p10{animation:press 3.2s ease-in-out infinite 1.28s}
+    .p11{animation:press 3.2s ease-in-out infinite 1.41s}
+    .p12{animation:press 3.2s ease-in-out infinite 1.54s}
+
+    .cat{transform-origin:600px 130px;animation:catBob 3.4s ease-in-out infinite}
+    .pupil{animation:lookCycle 6.4s ease-in-out infinite}
+    .eyeShape{transform-box:fill-box;transform-origin:center;animation:blink 6.4s ease-in-out infinite}
+    .pawL{transform-origin:535px 143px;animation:paw 2.5s ease-in-out infinite}
+    .pawR{transform-origin:665px 143px;animation:paw 2.5s ease-in-out infinite .28s}
+    .cursor{animation:cursorBlink .8s steps(2,start) infinite}
+    .scan{animation:scan 3.6s linear infinite}
+    .pulse{animation:pulse 2.2s ease-in-out infinite}
+    .windowGlow{animation:windowPulse 4s ease-in-out infinite}
+    .steam{stroke-dasharray:24 30;animation:steam 3s linear infinite}
+
+    @keyframes press{
+      0%,69%,100%{transform:translateY(0)}
+      75%{transform:translateY(9px)}
+      82%{transform:translateY(1px)}
+    }
+
+    @keyframes float{
+      0%,100%{transform:translateY(0)}
+      50%{transform:translateY(-5px)}
+    }
+
+    @keyframes catBob{
+      0%,100%{transform:translateY(0)}
+      50%{transform:translateY(-4px)}
+    }
+
+    @keyframes lookCycle{
+      0%,12%{transform:translate(0,0)}
+      18%,31%{transform:translate(-5px,0)}
+      37%,50%{transform:translate(5px,0)}
+      56%,70%{transform:translate(0,5px)}
+      76%,100%{transform:translate(0,0)}
+    }
+
+    @keyframes blink{
+      0%,73%,80%,100%{transform:scaleY(1)}
+      76%{transform:scaleY(.08)}
+    }
+
+    @keyframes paw{
+      0%,100%{transform:translateY(0)}
+      50%{transform:translateY(-3px)}
+    }
+
+    @keyframes cursorBlink{50%{opacity:0}}
+    @keyframes scan{from{transform:translateX(-260px)}to{transform:translateX(1450px)}}
+    @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+    @keyframes windowPulse{0%,100%{opacity:.35}50%{opacity:.65}}
+    @keyframes steam{to{stroke-dashoffset:-54}}
+  </style>
+</defs>
+
+<rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+
+<!-- cinematic city window -->
+<g opacity=".9">
+  <rect x="250" y="20" width="385" height="145" rx="12" fill="#050817" stroke="#101A35"/>
+  <rect x="265" y="34" width="355" height="117" rx="8" fill="#060B1A"/>
+  <circle cx="360" cy="70" r="24" fill="#B878FF" opacity=".85" filter="url(#purpleGlow)"/>
+  <circle cx="372" cy="63" r="24" fill="#060B1A"/>
+  <g fill="#0D1836">
+    <rect x="290" y="102" width="34" height="49"/><rect x="330" y="91" width="40" height="60"/>
+    <rect x="378" y="111" width="26" height="40"/><rect x="412" y="82" width="44" height="69"/>
+    <rect x="464" y="98" width="30" height="53"/><rect x="503" y="76" width="46" height="75"/>
+    <rect x="557" y="105" width="31" height="46"/>
+  </g>
+  <g class="windowGlow" fill="#516BFF">
+    <rect x="298" y="114" width="4" height="5"/><rect x="310" y="126" width="4" height="5"/>
+    <rect x="340" y="106" width="4" height="5"/><rect x="354" y="119" width="4" height="5"/>
+    <rect x="424" y="98" width="4" height="5"/><rect x="439" y="112" width="4" height="5"/>
+    <rect x="516" y="91" width="4" height="5"/><rect x="531" y="120" width="4" height="5"/>
+    <rect x="568" y="119" width="4" height="5"/>
+  </g>
+</g>
+
+<!-- subtle left stack -->
+<g opacity=".52">
+  <rect x="60" y="82" width="120" height="16" rx="4" fill="#11172A" stroke="#273051"/>
+  <rect x="54" y="102" width="133" height="16" rx="4" fill="#11172A" stroke="#273051"/>
+  <rect x="62" y="122" width="116" height="16" rx="4" fill="#11172A" stroke="#273051"/>
+  <text x="73" y="94" fill="#5D6EAF" font-size="10" font-family="monospace">DEVELOP</text>
+  <text x="68" y="114" fill="#5D6EAF" font-size="10" font-family="monospace">CREATE</text>
+  <text x="77" y="134" fill="#5D6EAF" font-size="10" font-family="monospace">LEARN</text>
+</g>
+
+<!-- terminal/code panel -->
+<g filter="url(#blueGlow)">
+  <rect x="842" y="28" width="300" height="104" rx="8" fill="#070B14" stroke="#128CFF" stroke-width="2"/>
+  <rect x="842" y="28" width="300" height="17" rx="8" fill="#0C1322"/>
+  <circle cx="857" cy="36.5" r="3.5" fill="#128CFF"/>
+  <circle cx="870" cy="36.5" r="3.5" fill="#128CFF" opacity=".65"/>
+  <circle cx="883" cy="36.5" r="3.5" fill="#128CFF" opacity=".35"/>
+  <text x="860" y="71" fill="#B8D8FF" font-family="monospace" font-size="18">&gt; welcome geeks...</text>
+  <rect class="cursor" x="861" y="87" width="16" height="3" rx="1.5" fill="#128CFF"/>
+  <g fill="#345D97" font-family="monospace" font-size="10" opacity=".7">
+    <text x="1014" y="64">code/</text>
+    <text x="1014" y="79">projects/</text>
+    <text x="1014" y="94">ideas/</text>
+  </g>
+</g>
+
+<!-- subtle mug -->
+<g opacity=".62">
+  <rect x="1045" y="153" width="75" height="72" rx="10" fill="#070A12" stroke="#203B68"/>
+  <path d="M1120 170q24 0 24 20q0 20-24 20" stroke="#203B68" stroke-width="4" fill="none"/>
+  <path class="steam" d="M1065 145q-10-18 0-34M1085 145q10-18 0-34" stroke="#4B68B6" stroke-width="2" fill="none" opacity=".7"/>
+</g>
+
+<!-- purple cat -->
+<g class="cat" filter="url(#purpleGlow)">
+  <path d="M482 148C485 92 518 62 556 67C572 48 586 36 600 42C620 34 639 48 650 66C692 62 720 94 718 148Z"
+        fill="url(#catPurple)" stroke="#8F3DFF" stroke-width="2.5"/>
+  <path d="M505 80L517 39L551 71" fill="#42108E" stroke="#8F3DFF" stroke-width="2.5"/>
+  <path d="M649 71L684 39L697 81" fill="#42108E" stroke="#8F3DFF" stroke-width="2.5"/>
+  <path d="M519 51L524 67L541 65Z" fill="#7430E8" opacity=".55"/>
+  <path d="M683 51L677 67L660 65Z" fill="#7430E8" opacity=".55"/>
+
+  <g class="eyeShape">
+    <ellipse cx="555" cy="103" rx="14" ry="18" fill="#E7D5FF"/>
+    <ellipse cx="646" cy="103" rx="14" ry="18" fill="#E7D5FF"/>
+  </g>
+  <g class="pupil">
+    <ellipse cx="558" cy="105" rx="5" ry="10" fill="#190436"/>
+    <ellipse cx="643" cy="105" rx="5" ry="10" fill="#190436"/>
+    <circle cx="560" cy="99" r="2.4" fill="#FFFFFF"/>
+    <circle cx="645" cy="99" r="2.4" fill="#FFFFFF"/>
+    <circle cx="556" cy="106" r="1.2" fill="#FFFFFF" opacity=".75"/>
+    <circle cx="641" cy="106" r="1.2" fill="#FFFFFF" opacity=".75"/>
+  </g>
+
+  <!-- tiny nose -->
+  <path d="M596 120Q600 117 604 120Q600 124 596 120Z" fill="#D78BFF"/>
+  <!-- happy cat smile -->
+  <path d="M600 123Q594 132 586 126" stroke="#E4A6FF" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M600 123Q606 132 614 126" stroke="#E4A6FF" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <!-- little happy tongue -->
+  <path d="M596 130Q600 136 604 130" fill="#F2A0D8" stroke="#D77BC2" stroke-width="1"/>
+  <!-- subtle cheek blush -->
+  <ellipse cx="535" cy="124" rx="10" ry="4" fill="#D36BFF" opacity=".28"/>
+  <ellipse cx="665" cy="124" rx="10" ry="4" fill="#D36BFF" opacity=".28"/>
+
+  <g class="pawL"><ellipse cx="535" cy="145" rx="26" ry="17" fill="#45109A" stroke="#8F3DFF" stroke-width="2"/></g>
+  <g class="pawR"><ellipse cx="665" cy="145" rx="26" ry="17" fill="#45109A" stroke="#8F3DFF" stroke-width="2"/></g>
+</g>
+
+<!-- desk glow -->
+<ellipse cx="600" cy="370" rx="465" ry="44" fill="#007BFF" opacity=".18" filter="url(#soft)"/>
+
+<!-- keyboard -->
+<g class="board" filter="url(#shadow)">
+  <rect x="108" y="150" width="984" height="205" rx="28" fill="#0A0E17" stroke="#128CFF" stroke-width="3.5"/>
+  <rect x="126" y="166" width="948" height="172" rx="20" fill="#050912" stroke="#16345B" stroke-width="2"/>
+
+  <rect class="pulse" x="145" y="170" width="910" height="3" rx="1.5" fill="#128CFF" filter="url(#blueGlow)"/>
+  <rect class="pulse" x="145" y="329" width="910" height="3" rx="1.5" fill="#128CFF" filter="url(#blueGlow)"/>
+  <rect class="scan" x="-220" y="174" width="220" height="150" rx="30" fill="#128CFF" opacity=".08"/>
+
+  <!-- WELCOME -->
+  <g class="key p1"><rect x="190" y="190" width="88" height="58" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="194" y="238" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="234" y="228" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">W</text></g>
+  <g class="key p2"><rect x="288" y="190" width="88" height="58" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="292" y="238" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="332" y="228" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">E</text></g>
+  <g class="key p3"><rect x="386" y="190" width="88" height="58" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="390" y="238" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="430" y="228" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">L</text></g>
+  <g class="key p4"><rect x="484" y="190" width="88" height="58" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="488" y="238" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="528" y="228" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">C</text></g>
+  <g class="key p5"><rect x="582" y="190" width="88" height="58" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="586" y="238" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="626" y="228" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">O</text></g>
+  <g class="key p6"><rect x="680" y="190" width="88" height="58" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="684" y="238" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="724" y="228" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">M</text></g>
+  <g class="key p7"><rect x="778" y="190" width="88" height="58" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="782" y="238" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="822" y="228" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">E</text></g>
+
+  <!-- GEEKS -->
+  <g class="key p8"><rect x="337" y="263" width="88" height="57" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="341" y="310" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="381" y="301" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">G</text></g>
+  <g class="key p9"><rect x="435" y="263" width="88" height="57" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="439" y="310" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="479" y="301" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">E</text></g>
+  <g class="key p10"><rect x="533" y="263" width="88" height="57" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="537" y="310" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="577" y="301" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">E</text></g>
+  <g class="key p11"><rect x="631" y="263" width="88" height="57" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="635" y="310" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="675" y="301" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">K</text></g>
+  <g class="key p12"><rect x="729" y="263" width="88" height="57" rx="11" fill="#0E1E36" stroke="#128CFF" stroke-width="2"/><rect x="733" y="310" width="80" height="5" rx="2.5" fill="#128CFF" filter="url(#blueGlow)"/><text x="773" y="301" text-anchor="middle" fill="#B8DCFF" font-size="30" font-family="monospace" font-weight="700">S</text></g>
+
+  <!-- minimal utility keys -->
+  <rect x="145" y="190" width="35" height="130" rx="9" fill="#0B1322" stroke="#128CFF"/>
+  <text x="163" y="260" text-anchor="middle" fill="#82BFFF" font-size="13" font-family="monospace" transform="rotate(-90 163 260)">TAB</text>
+  <rect x="877" y="190" width="168" height="58" rx="11" fill="#0B1322" stroke="#128CFF"/>
+  <text x="961" y="224" text-anchor="middle" fill="#9FCFFF" font-size="16" font-family="monospace">BACKSPACE</text>
+  <rect x="877" y="263" width="168" height="57" rx="11" fill="#0B1322" stroke="#128CFF"/>
+  <text x="961" y="297" text-anchor="middle" fill="#9FCFFF" font-size="16" font-family="monospace">ENTER ↵</text>
+</g>
+</svg>
