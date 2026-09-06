@@ -30,19 +30,8 @@
 
 <br/>
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThaakirahA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=282c34&title_color=61DAFB&icon_color=61DAFB&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaakirahA&layout=compact&theme=tokyonight&hide_border=true&bg_color=282c34&title_color=61DAFB&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaakirahA&theme=tokyonight&hide_border=true&background=282c34&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" />
-
-</div>
-
-<br/>
-
+ <div align="center"> <img src="https://raw.githubusercontent.com/ThaakirahA/ThaakirahA/main/assets/coding-character.svg" width="400"/> </div>
+ 
 ## Contribution snake 🐍
 
 <div align="center">
