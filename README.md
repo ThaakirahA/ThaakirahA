@@ -30,7 +30,13 @@
 
 <br/>
 
- <div align="center"> <img src="https://raw.githubusercontent.com/ThaakirahA/ThaakirahA/main/assets/coding-character.svg" width="400"/> </div>
+ <p align="center">
+  <img
+    src="./purple-cat-blue-neon-keyboard.svg"
+    width="100%"
+    alt="Welcome Geeks"
+  />
+</p>
  
 ## Contribution snake 🐍
 
