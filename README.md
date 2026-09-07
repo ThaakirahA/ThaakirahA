@@ -19,88 +19,23 @@
 
 <br>
 
-<!-- ======================= -->
-<!--       TECH STACK        -->
-<!-- ======================= -->
+<!-- ============================== -->
+<!--          TECH STACK            -->
+<!-- ============================== -->
+
+<br>
 
 <div align="center">
 
-## ⚡ Tech Stack
-
-<code>~/thaakirah/skills $ ./show-stack.sh</code>
-
-<br><br>
-
-<!-- LANGUAGES -->
-
-<img src="https://img.shields.io/badge/%3E_%20LANGUAGES-2D163B?style=for-the-badge&logoColor=C084FC" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark" />
-
-<br>
-
-<sub>
-JavaScript • TypeScript • C# • Java • Python • PHP • Rust • HTML • CSS • SQL
-</sub>
-
-<br><br>
-
-<!-- FRAMEWORKS -->
-
-<img src="https://img.shields.io/badge/%3C%2F%3E%20FRAMEWORKS_%26_LIBRARIES-2D163B?style=for-the-badge&logoColor=C084FC" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind,bootstrap,sass&theme=dark" />
-
-<br>
-
-<img src="https://img.shields.io/badge/React_Native-16121F?style=flat-square&logo=react&logoColor=C084FC" />
-
-<br>
-
-<sub>
-React • React Native • Next.js • Angular • Node.js • Express.js • Tailwind • Bootstrap • Sass/SCSS
-</sub>
-
-<br><br>
-
-<!-- TOOLS -->
-
-<img src="https://img.shields.io/badge/%24%20TOOLS_%26_PLATFORMS-2D163B?style=for-the-badge&logoColor=C084FC" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel&theme=dark" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma,photoshop,illustrator&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MongoDB_Compass-16121F?style=flat-square&logo=mongodb&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/CodePen-16121F?style=flat-square&logo=codepen&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Canva-16121F?style=flat-square&logo=canva&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Prezi-16121F?style=flat-square&logo=prezi&logoColor=C084FC" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Word-16121F?style=flat-square&logo=microsoftword&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Excel-16121F?style=flat-square&logo=microsoftexcel&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/PowerPoint-16121F?style=flat-square&logo=microsoftpowerpoint&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Outlook-16121F?style=flat-square&logo=microsoftoutlook&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Teams-16121F?style=flat-square&logo=microsoftteams&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/OneDrive-16121F?style=flat-square&logo=microsoftonedrive&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/SharePoint-16121F?style=flat-square&logo=microsoftsharepoint&logoColor=C084FC" />
-
-<br><br>
-
-<code>status: ready to build_</code>
+<img
+  src="./assets/tech-stack.png"
+  alt="Thaakirah's Tech Stack - Languages, Frameworks, Libraries, Tools and Platforms"
+  width="90%"
+/>
 
 </div>
+
+<br>
 
 ---
 
