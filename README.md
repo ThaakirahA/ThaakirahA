@@ -79,6 +79,102 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
+
+<!-- ===================================================== -->
+<!--              WORLD 01 // CODE KINGDOM                -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<br>
+
+<!-- ===================== ARCADE HEADER ===================== -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&height=45&lines=WORLD+01+%2F%2F+CODE+KINGDOM;COLLECTING+COMMITS...;LEVELING+UP..."
+  alt="World 01 Code Kingdom"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/PLAYER-THAAKIRAH-A78BFA?style=for-the-badge&labelColor=17111F"
+  alt="Player Thaakirah"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/LEVEL-01-C084FC?style=for-the-badge&labelColor=17111F"
+  alt="Level 01"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/LIVES-%E2%99%A5_%E2%99%A5_%E2%99%A5-8B5CF6?style=for-the-badge&labelColor=17111F"
+  alt="Three lives"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/MODE-BUILD-6D28D9?style=for-the-badge&labelColor=17111F"
+  alt="Build Mode"
+/>
+
+<br><br>
+
+<!-- ===================== GAME WORLD ===================== -->
+
+<img
+  src="./assets/code-kingdom-world-01.png"
+  width="100%"
+  alt="World 01 Code Kingdom - Thaakirah's retro pixel contribution world"
+/>
+
+<br><br>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ThaakirahA&bg_color=0B0416&color=C084FC&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=COMMIT%20MAP%20%2F%2F%20PLAYER%20PROGRESS"
+  width="100%"
+  alt="Thaakirah's GitHub contribution activity graph"
+/>
+
+<br>
+
+<!-- ===================== PIXEL CAPTION ===================== -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3500&pause=1800&color=A78BFA&center=true&vCenter=true&width=700&height=35&lines=SMALL+COMMITS+MAKE+BIG+DREAMS.;ANOTHER+DAY.+ANOTHER+STEP+CLOSER.;LEARN+%E2%80%A2+CODE+%E2%80%A2+BUILD+%E2%80%A2+REPEAT"
+  alt="Small commits make big dreams"
+/>
+
+<br>
+
+<!-- ===================== ARCADE STATUS ===================== -->
+
+<img
+  src="https://img.shields.io/badge/%F0%9F%8E%AE_PLAY-LEARN_%E2%80%A2_CODE_%E2%80%A2_REPEAT-2D163B?style=flat-square&labelColor=17111F"
+  alt="Play - Learn Code Repeat"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/%F0%9F%8F%86_ACHIEVEMENT-CONSISTENCY_UNLOCKED-4C1D95?style=flat-square&labelColor=17111F"
+  alt="Achievement Consistency Unlocked"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/%E2%99%A5_NEXT_LEVEL-BIGGER_PROJECTS_AHEAD-6D28D9?style=flat-square&labelColor=17111F"
+  alt="Next Level Bigger Projects Ahead"
+/>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,25:4C1D95,50:C084FC,75:4C1D95,100:0B0416&height=3&width=100%25"
+  width="100%"
+  alt="Code Kingdom divider"
+/>
+
+</div>
+
 <!-- ===================================================== -->
 <!--                 FOOTER                                 -->
 <!-- ===================================================== -->
