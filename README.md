@@ -1,33 +1,15 @@
 <div align="center">
-
-# Hi, I'm Thaakirah 👋
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Frontend+%2F+Software+Engineer;Building+clean%2C+usable+interfaces;Turning+ideas+into+code;Always+learning+something+new"
-  alt="Typing introduction"
-/>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/Frontend%20Engineer-61DAFB?style=for-the-badge&logo=react&logoColor=black"
-  alt="Frontend Engineer"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/Cape%20Town%2C%20ZA-282C34?style=for-the-badge&logo=googlemaps&logoColor=61DAFB"
-  alt="Cape Town"
-/>
-
+  <img
+    src="./assets/thaakirah-minimal-portfolio-animated.svg"
+    width="100%"
+    alt="Hey I'm Thaakirah - Qualified Frontend Engineer and Software Engineer"
+  />
 </div>
 
-<br>
-
----
 
 ## 👩🏽‍💻 About Me
 
-🎓 Multimedia graduate & currently an **Honours student in Software Engineering**
+🎓 Frontend degree in ICT graduate & currently an **Honours student in Software Engineering**
 
 💻 Frontend-leaning software engineer with a focus on **clean UI, usability and readable code**
 
