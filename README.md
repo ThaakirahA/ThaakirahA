@@ -124,22 +124,52 @@
 
 </div>
 
+
 <!-- ===================================================== -->
-<!--                 FOOTER                                 -->
+<!--                       THE END                         -->
 <!-- ===================================================== -->
 
-<a href="https://www.linkedin.com/in/ThaakirahA">
-  <img src="https://img.shields.io/badge/LinkedIn-2D163B?style=for-the-badge&logo=linkedin&logoColor=C084FC" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/akirah_design">
-  <img src="https://img.shields.io/badge/Instagram-2D163B?style=for-the-badge&logo=instagram&logoColor=C084FC" alt="Instagram" />
-</a>
-&nbsp;
-<a href="mailto:thaakirahagherdien1414@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2D163B?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email" />
-</a>
+<div align="center">
+
 <br>
-<img src="https://komarev.com/ghpvc/?username=ThaakirahA&style=flat-square&color=2D163B&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2600&pause=1400&color=C084FC&center=true&vCenter=true&width=700&height=55&lines=THE+END...%3F;PRESS+START+TO+CONTINUE;NEXT+LEVEL+LOADING..."
+  alt="The End"
+/>
+
+<br>
+
+<sub>
+  <code>PLAYER THAAKIRAH // SAVE COMPLETE // NEW ADVENTURES AHEAD</code>
+</sub>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/GAME_STATUS-SAVED-4C1D95?style=for-the-badge&labelColor=17111F"
+  alt="Game saved"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/NEXT_LEVEL-SOON-8B5CF6?style=for-the-badge&labelColor=17111F"
+  alt="Next level soon"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/CONTINUE%3F-YES-C084FC?style=for-the-badge&labelColor=17111F"
+  alt="Continue yes"
+/>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0416,35:2D163B,70:6D28D9,100:C084FC&height=110&section=footer"
+  width="100%"
+  alt="Purple cyber pixel footer"
+/>
 
 </div>
+```
+
+
