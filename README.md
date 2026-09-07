@@ -124,3 +124,19 @@
 
 </div>
 
+
+<!-- ===================================================== -->
+<!--                       THE END                         -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<br>
+
+<img
+  src="./assets/the-end-akirah-designs.svg"
+  width="100%"
+  alt="The End - Thank you for visiting Akirah Designs"
+/>
+
+</div>
