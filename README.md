@@ -19,7 +19,7 @@
 
 🎓 ICT graduate specialising in **Frontend Development** & currently an **Honours student in Software Engineering**
 
-💻 Frontend-leaning software engineer focused on **clean UI, usability and readable code**
+💻 Experience across **Frontend, Full-Stack and Backend Development**
 
 🌱 Constantly learning, experimenting and improving my craft
 
@@ -39,58 +39,57 @@
 
 <br>
 
-<!-- LANGUAGES -->
-
-<img src="https://img.shields.io/badge/01_%2F%2F_LANGUAGES-2D163B?style=for-the-badge&logoColor=C084FC" />
-
-<br>
+<!-- ===================== TOP TIER ===================== -->
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark"
-  alt="JavaScript, TypeScript, C#, Java, Python, PHP, Rust, HTML and CSS"
+  src="https://img.shields.io/badge/01_%2F%2F_LANGUAGES-2D163B?style=for-the-badge&logoColor=C084FC"
 />
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=js,ts,cs,java,python&theme=dark" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=php,rust,html,css&theme=dark" />
 <img src="https://img.shields.io/badge/SQL-17111F?style=flat-square&logo=databricks&logoColor=C084FC" />
 
-<!-- FRAMEWORKS -->
-
 <br>
 
-<img src="https://img.shields.io/badge/02_%2F%2F_FRAMEWORKS_%2B_LIBRARIES-2D163B?style=for-the-badge&logoColor=C084FC" />
-
-<br>
+<!-- =================== MIDDLE TIER ==================== -->
 
 <img
-  src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind,bootstrap,sass&theme=dark"
-  alt="React, Next.js, Angular, Node.js, Express.js, Tailwind, Bootstrap and Sass"
+  src="https://img.shields.io/badge/02_%2F%2F_FRAMEWORKS_%2B_LIBRARIES-2D163B?style=for-the-badge&logoColor=C084FC"
 />
 
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express&theme=dark" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass&theme=dark" />
 <img
   src="https://img.shields.io/badge/React_Native-17111F?style=flat-square&logo=react&logoColor=C084FC"
-  alt="React Native"
 />
 
-<!-- TOOLS -->
-
 <br>
 
-<img src="https://img.shields.io/badge/03_%2F%2F_TOOLS_%2B_PLATFORMS-2D163B?style=for-the-badge&logoColor=C084FC" />
-
-<br>
+<!-- ================== BOTTOM TIER ===================== -->
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel,mongodb,mysql,postgres&theme=dark"
-  alt="Development tools and databases"
+  src="https://img.shields.io/badge/03_%2F%2F_TOOLS_%2B_PLATFORMS-2D163B?style=for-the-badge&logoColor=C084FC"
 />
 
 <br>
 
-<img
-  src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=dark"
-  alt="Figma, Photoshop and Illustrator"
-/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel&theme=dark" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma,photoshop,illustrator&theme=dark" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Compass-17111F?style=flat-square&logo=mongodb&logoColor=C084FC" />
 <img src="https://img.shields.io/badge/Canva-17111F?style=flat-square&logo=canva&logoColor=C084FC" />
@@ -112,8 +111,6 @@
 <sub><code>● ONLINE &nbsp; // &nbsp; BUILD • CREATE • IMPROVE • REPEAT</code></sub>
 
 </div>
-
-<br>
 
 
 <!-- ===================================================== -->
