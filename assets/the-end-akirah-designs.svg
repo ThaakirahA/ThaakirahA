@@ -1,0 +1,539 @@
+```svg
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="300"
+  viewBox="0 0 1200 300"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">The End — Akirah Designs</title>
+  <desc id="desc">
+    Purple cyber-pixel end screen with large THE END lettering,
+    a sleeping cat, stars, moon, lamp, and adventure sign.
+  </desc>
+
+  <defs>
+
+    <!-- ===================== GRADIENTS ===================== -->
+
+    <linearGradient id="textGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F3E8FF"/>
+      <stop offset="28%" stop-color="#D8B4FE"/>
+      <stop offset="58%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+
+    <linearGradient id="stoneGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#2D163B"/>
+    </linearGradient>
+
+    <radialGradient id="moonGlow">
+      <stop offset="0%" stop-color="#F3E8FF" stop-opacity=".9"/>
+      <stop offset="45%" stop-color="#C084FC" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- ===================== GLOWS ===================== -->
+
+    <filter id="bigGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- ===================== STAR ===================== -->
+
+    <g id="star">
+      <rect x="-2" y="-8" width="4" height="16" fill="#C084FC"/>
+      <rect x="-8" y="-2" width="16" height="4" fill="#C084FC"/>
+      <rect x="-3" y="-3" width="6" height="6" fill="#F3E8FF"/>
+    </g>
+
+    <!-- ===================== HEART ===================== -->
+
+    <g id="heart">
+      <rect x="0" y="3" width="5" height="5" fill="#8B5CF6"/>
+      <rect x="5" y="0" width="5" height="5" fill="#A78BFA"/>
+      <rect x="10" y="3" width="5" height="5" fill="#8B5CF6"/>
+      <rect x="2" y="7" width="11" height="5" fill="#8B5CF6"/>
+      <rect x="5" y="12" width="5" height="4" fill="#6D28D9"/>
+    </g>
+
+  </defs>
+
+
+  <!-- ===================================================== -->
+  <!--                     BACKGROUND                       -->
+  <!-- ===================================================== -->
+
+  <rect width="1200" height="300" fill="#030107"/>
+
+
+  <!-- ===================================================== -->
+  <!--                        STARS                         -->
+  <!-- ===================================================== -->
+
+  <g>
+
+    <g transform="translate(130 90)">
+      <use href="#star"/>
+      <animate
+        attributeName="opacity"
+        values=".2;1;.2"
+        dur="2.3s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <g transform="translate(205 120) scale(.6)">
+      <use href="#star"/>
+      <animate
+        attributeName="opacity"
+        values="1;.2;1"
+        dur="3.2s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <g transform="translate(865 80) scale(.7)">
+      <use href="#star"/>
+      <animate
+        attributeName="opacity"
+        values=".2;1;.2"
+        dur="2.6s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <g transform="translate(915 120) scale(.5)">
+      <use href="#star"/>
+      <animate
+        attributeName="opacity"
+        values="1;.2;1"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <g transform="translate(1038 130) scale(.7)">
+      <use href="#star"/>
+      <animate
+        attributeName="opacity"
+        values=".2;1;.2"
+        dur="2s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--                        MOON                          -->
+  <!-- ===================================================== -->
+
+  <g transform="translate(1010 58)">
+
+    <circle
+      r="46"
+      fill="url(#moonGlow)"
+    >
+      <animate
+        attributeName="opacity"
+        values=".5;.9;.5"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle
+      r="26"
+      fill="#C084FC"
+    />
+
+    <circle
+      cx="11"
+      cy="-8"
+      r="25"
+      fill="#030107"
+    />
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--                     TOP TEXT                        -->
+  <!-- ===================================================== -->
+
+  <line
+    x1="310"
+    y1="58"
+    x2="350"
+    y2="58"
+    stroke="#8B5CF6"
+    stroke-width="2"
+  />
+
+  <text
+    x="600"
+    y="63"
+    text-anchor="middle"
+    fill="#A78BFA"
+    font-family="monospace"
+    font-size="13"
+    font-weight="700"
+    letter-spacing="5"
+  >
+    THANK YOU FOR VISITING AKIRAH DESIGNS
+  </text>
+
+  <line
+    x1="850"
+    y1="58"
+    x2="890"
+    y2="58"
+    stroke="#8B5CF6"
+    stroke-width="2"
+  />
+
+  <g transform="translate(593 73) scale(.8)">
+    <use href="#heart"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      values=".8;.95;.8"
+      dur="1.7s"
+      repeatCount="indefinite"
+    />
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--                      BIG THE END                    -->
+  <!-- ===================================================== -->
+
+  <g filter="url(#bigGlow)">
+
+    <text
+      x="600"
+      y="185"
+      text-anchor="middle"
+      fill="url(#textGradient)"
+      stroke="#E9D5FF"
+      stroke-width="1.5"
+      font-family="monospace"
+      font-size="110"
+      font-weight="900"
+      letter-spacing="2"
+    >
+      THE END
+
+      <animate
+        attributeName="opacity"
+        values=".95;1;.92;1"
+        dur="3.5s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+    <!-- subtle moving shine -->
+
+    <rect
+      x="345"
+      y="98"
+      width="8"
+      height="96"
+      fill="#FFFFFF"
+      opacity="0"
+    >
+      <animate
+        attributeName="x"
+        values="345;850"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="opacity"
+        values="0;0;.35;0;0"
+        keyTimes="0;.2;.45;.7;1"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--                    SLEEPING CAT                     -->
+  <!-- ===================================================== -->
+
+  <g transform="translate(780 82)">
+
+    <!-- tail -->
+    <rect x="48" y="29" width="7" height="16" fill="#4C1D95"/>
+    <rect x="54" y="38" width="12" height="7" fill="#4C1D95"/>
+    <rect x="61" y="32" width="7" height="10" fill="#6D28D9"/>
+
+    <!-- body -->
+    <rect x="15" y="24" width="40" height="25" rx="6" fill="#4C1D95"/>
+
+    <!-- head -->
+    <rect x="0" y="7" width="34" height="28" rx="6" fill="#5B21B6"/>
+
+    <!-- ears -->
+    <rect x="4" y="0" width="8" height="11" fill="#6D28D9"/>
+    <rect x="22" y="0" width="8" height="11" fill="#6D28D9"/>
+
+    <!-- eyes -->
+    <rect x="7" y="18" width="8" height="2" fill="#13071F"/>
+    <rect x="21" y="18" width="8" height="2" fill="#13071F"/>
+
+    <!-- nose -->
+    <rect x="16" y="22" width="3" height="2" fill="#C084FC"/>
+
+    <!-- paws -->
+    <rect x="20" y="43" width="10" height="6" fill="#6D28D9"/>
+    <rect x="32" y="43" width="10" height="6" fill="#6D28D9"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="780 82;780 79;780 82"
+      dur="3s"
+      repeatCount="indefinite"
+    />
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--                        ZZZ                          -->
+  <!-- ===================================================== -->
+
+  <g
+    fill="#A78BFA"
+    font-family="monospace"
+    font-weight="bold"
+  >
+
+    <text x="839" y="83" font-size="13">Z</text>
+    <text x="851" y="70" font-size="11">Z</text>
+    <text x="862" y="59" font-size="9">Z</text>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 5;0 -8"
+      dur="2.8s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      dur="2.8s"
+      repeatCount="indefinite"
+    />
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--                       LAMP                          -->
+  <!-- ===================================================== -->
+
+  <g transform="translate(145 145)">
+
+    <circle
+      cx="15"
+      cy="10"
+      r="26"
+      fill="#C084FC"
+      opacity=".12"
+    >
+      <animate
+        attributeName="opacity"
+        values=".08;.22;.08"
+        dur="2.5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <rect x="8" y="0" width="18" height="20" fill="#2D163B"/>
+    <rect x="11" y="4" width="12" height="12" fill="#D8B4FE"/>
+
+    <rect x="14" y="20" width="5" height="62" fill="#4C1D95"/>
+
+    <rect x="8" y="82" width="18" height="6" fill="#2D163B"/>
+    <rect x="3" y="88" width="28" height="7" fill="#4C1D95"/>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--                     SIGN BOARD                      -->
+  <!-- ===================================================== -->
+
+  <g transform="translate(935 153)">
+
+    <rect
+      x="0"
+      y="0"
+      width="155"
+      height="62"
+      rx="3"
+      fill="#140821"
+      stroke="#6D28D9"
+      stroke-width="3"
+    />
+
+    <text
+      x="77"
+      y="19"
+      text-anchor="middle"
+      fill="#D8B4FE"
+      font-family="monospace"
+      font-size="10"
+      font-weight="bold"
+      letter-spacing="2"
+    >
+      ON TO
+    </text>
+
+    <text
+      x="77"
+      y="35"
+      text-anchor="middle"
+      fill="#D8B4FE"
+      font-family="monospace"
+      font-size="10"
+      font-weight="bold"
+      letter-spacing="2"
+    >
+      THE NEXT
+    </text>
+
+    <text
+      x="77"
+      y="51"
+      text-anchor="middle"
+      fill="#D8B4FE"
+      font-family="monospace"
+      font-size="10"
+      font-weight="bold"
+      letter-spacing="2"
+    >
+      ADVENTURE →
+    </text>
+
+    <rect x="28" y="62" width="6" height="28" fill="#2D163B"/>
+    <rect x="120" y="62" width="6" height="28" fill="#2D163B"/>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--                      PLATFORM                       -->
+  <!-- ===================================================== -->
+
+  <rect
+    x="80"
+    y="220"
+    width="1040"
+    height="8"
+    fill="#8B5CF6"
+    filter="url(#softGlow)"
+  />
+
+  <rect
+    x="80"
+    y="228"
+    width="1040"
+    height="18"
+    fill="url(#stoneGradient)"
+  />
+
+  <!-- pixel stone blocks -->
+
+  <g fill="#2D163B">
+
+    <rect x="85" y="234" width="80" height="10"/>
+    <rect x="175" y="234" width="110" height="10"/>
+    <rect x="295" y="234" width="85" height="10"/>
+    <rect x="390" y="234" width="100" height="10"/>
+    <rect x="500" y="234" width="85" height="10"/>
+    <rect x="595" y="234" width="120" height="10"/>
+    <rect x="725" y="234" width="95" height="10"/>
+    <rect x="830" y="234" width="115" height="10"/>
+    <rect x="955" y="234" width="75" height="10"/>
+    <rect x="1040" y="234" width="75" height="10"/>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--                   BOTTOM CAPTION                    -->
+  <!-- ===================================================== -->
+
+  <line
+    x1="390"
+    y1="267"
+    x2="445"
+    y2="267"
+    stroke="#8B5CF6"
+    stroke-width="2"
+  />
+
+  <text
+    x="600"
+    y="271"
+    text-anchor="middle"
+    fill="#8B5CF6"
+    font-family="monospace"
+    font-size="12"
+    font-weight="bold"
+    letter-spacing="4"
+  >
+    SAME GIRL // BIGGER DREAMS
+  </text>
+
+  <line
+    x1="755"
+    y1="267"
+    x2="810"
+    y2="267"
+    stroke="#8B5CF6"
+    stroke-width="2"
+  />
+
+  <!-- hearts -->
+
+  <g transform="translate(575 279) scale(.7)">
+    <use href="#heart"/>
+  </g>
+
+  <g transform="translate(598 279) scale(.7)">
+    <use href="#heart"/>
+  </g>
+
+  <g transform="translate(621 279) scale(.7)">
+    <use href="#heart"/>
+  </g>
+
+</svg>
+```
