@@ -126,30 +126,34 @@
 
 
 
+
 <!-- ===================================================== -->
-<!--                    PIXEL SIGN-OFF                     -->
+<!--                    END OF WORLD 01                    -->
 <!-- ===================================================== -->
 
 <div align="center">
 
 <br>
 
-<pre>
-╔══════════════════════════════╗
-║          THE END ?           ║
-║                              ║
-║       ▸ CONTINUE...          ║
-╚══════════════════════════════╝
-</pre>
+<sub>
+  <code>◆ WORLD 01 CLEARED ◆</code>
+</sub>
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2200&pause=1200&color=C084FC&center=true&vCenter=true&width=520&height=32&lines=%E2%96%B8+THE+END%3F;%E2%96%B8+NAH...+JUST+A+CHECKPOINT.;%E2%96%B8+NEXT+WORLD+LOADING..."
+  alt="World 01 cleared"
+/>
+
+<br>
 
 <sub>
-  <code>THAAKIRAH.EXE // STORY CONTINUES...</code>
+  <code>◀ ◉ ▶ &nbsp; SAVE COMPLETE &nbsp; // &nbsp; SEE YOU IN THE NEXT COMMIT</code>
 </sub>
 
 <br><br>
 
 </div>
-```
-
 
 
