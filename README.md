@@ -29,84 +29,93 @@
 
 
 <!-- ===================================================== -->
-<!--                 BOOT SEQUENCE                          -->
+<!--                 GAME TITLE                             -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=500&color=C084FC&center=true&vCenter=true&width=600&lines=%3E+booting+tech_stack.exe...;%3E+loading+modules+%5B01%2F02%2F03%5D...;%3E+STATUS%3A+ONLINE+%E2%9C%93" alt="Boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8E%AE+TECH+STACK" alt="Tech Stack title" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=PLAYER%3A+THAAKIRAH.DEV;PRESS+START+TO+CONTINUE" alt="Player tag" />
 
 </div>
 
-```txt
-┌──●─●─●───────────────────────────────────────────────────┐
-│  thaakirah@dev:~/tech-stack$ cat system_info.log          │
-├─────────────────────────────────────────────────────────────┤
-│  USER        : Thaakirah Agherdien                        │
-│  ROLE        : Full-Stack Developer / Designer            │
-│  STATUS      : ● ONLINE                                    │
-│  UPTIME      : build • create • improve • repeat           │
-└─────────────────────────────────────────────────────────────┘
-```
+<br>
+
+<!-- ===================== PLAYER CARD ====================== -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎮_CLASS-Full--Stack_Developer-2D163B?style=for-the-badge&logoColor=C084FC" alt="Class: Full-Stack Developer" />
+<img src="https://img.shields.io/badge/⭐_LEVEL-42-2D163B?style=for-the-badge&logoColor=C084FC" alt="Level 42" />
+<img src="https://img.shields.io/badge/🟢_STATUS-ONLINE-2D163B?style=for-the-badge&logoColor=C084FC" alt="Status: Online" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/❤️_HP-████████████_100%25-2D163B?style=for-the-badge&logoColor=C084FC" alt="HP 100%" />
+<img src="https://img.shields.io/badge/⚡_XP-██████████░░_82%25-2D163B?style=for-the-badge&logoColor=C084FC" alt="XP 82%" />
+
+</div>
 
 <br>
 
-<!-- ===================== MODULE 01 : LANGUAGES ====================== -->
+<div align="center"><sub>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</sub></div>
 
-```txt
-┌─[ MODULE_01 ]──────────────────────────────────────────────┐
-│  LANGUAGES.pkg                              [ STATUS: OK ] │
-└──────────────────────────────────────────────────────────────┘
-```
+<br>
+
+<!-- ===================== SKILL TREE : LANGUAGES ====================== -->
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/⚔️_SKILL_TREE-CORE_LANGUAGES-2D163B?style=for-the-badge&logoColor=C084FC" alt="Skill Tree: Core Languages" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark&perline=9" alt="JavaScript, TypeScript, C#, Java, Python, PHP, Rust, HTML and CSS" />
 <br><br>
-<img src="https://img.shields.io/badge/SQL-2D163B?style=flat-square&logoColor=C084FC" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-17111F?style=for-the-badge&logoColor=C084FC" alt="SQL" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/✅_UNLOCKED-9_SKILLS-6D28D9?style=flat-square&logoColor=white" alt="9 skills unlocked" />
 
 </div>
 
-```txt
-JavaScript   ██████████████████░░  92%  [MASTERED]
-TypeScript   ████████████████░░░░  81%  [STRONG]
-Python       ███████████████░░░░░  76%  [STRONG]
-C#           █████████████░░░░░░░  65%  [SOLID]
-```
+<br>
+
+<div align="center"><sub>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</sub></div>
 
 <br>
 
-<!-- ===================== MODULE 02 : FRAMEWORKS ====================== -->
-
-```txt
-┌─[ MODULE_02 ]──────────────────────────────────────────────┐
-│  FRAMEWORKS_&_LIBRARIES.pkg                 [ STATUS: OK ] │
-└──────────────────────────────────────────────────────────────┘
-```
+<!-- ===================== POWER-UPS : FRAMEWORKS ====================== -->
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/🛡️_POWER--UPS-FRAMEWORKS_%2B_LIBRARIES-2D163B?style=for-the-badge&logoColor=C084FC" alt="Power-Ups: Frameworks and Libraries" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind,bootstrap,sass,reactnative&theme=dark&perline=9" alt="React, Next.js, Angular, Node.js, Express.js, Tailwind CSS, Bootstrap, Sass and React Native" />
 
-</div>
+<br><br>
 
-```txt
-React        ██████████████████░░  90%  [MASTERED]
-Node.js      ████████████████░░░░  80%  [STRONG]
-Next.js      ██████████████░░░░░░  70%  [SOLID]
-```
+<img src="https://img.shields.io/badge/✅_EQUIPPED-9_POWER--UPS-6D28D9?style=flat-square&logoColor=white" alt="9 power-ups equipped" />
+
+</div>
 
 <br>
 
-<!-- ===================== MODULE 03 : TOOLS & PLATFORMS ====================== -->
+<div align="center"><sub>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</sub></div>
 
-```txt
-┌─[ MODULE_03 ]──────────────────────────────────────────────┐
-│  TOOLS_&_PLATFORMS.pkg                      [ STATUS: OK ] │
-└──────────────────────────────────────────────────────────────┘
-```
+<br>
+
+<!-- ===================== INVENTORY : TOOLS & PLATFORMS ====================== -->
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/🎒_INVENTORY-TOOLS_%2B_PLATFORMS-2D163B?style=for-the-badge&logoColor=C084FC" alt="Inventory: Tools and Platforms" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel&theme=dark&perline=8" alt="Git, GitHub, Visual Studio Code, Visual Studio, Postman, Webpack, Jest and Vercel" />
 
@@ -116,10 +125,10 @@ Next.js      ██████████████░░░░░░  70%  
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Photoshop-2D163B?style=flat-square&logo=adobephotoshop&logoColor=C084FC" alt="Adobe Photoshop" />
-<img src="https://img.shields.io/badge/Illustrator-2D163B?style=flat-square&logo=adobeillustrator&logoColor=C084FC" alt="Adobe Illustrator" />
-<img src="https://img.shields.io/badge/Compass-2D163B?style=flat-square&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" />
-<img src="https://img.shields.io/badge/Prezi-2D163B?style=flat-square&logo=prezi&logoColor=C084FC" alt="Prezi" />
+<img src="https://img.shields.io/badge/Photoshop-17111F?style=for-the-badge&logo=adobephotoshop&logoColor=C084FC" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Illustrator-17111F?style=for-the-badge&logo=adobeillustrator&logoColor=C084FC" alt="Adobe Illustrator" />
+<img src="https://img.shields.io/badge/Compass-17111F?style=for-the-badge&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" />
+<img src="https://img.shields.io/badge/Prezi-17111F?style=for-the-badge&logo=prezi&logoColor=C084FC" alt="Prezi" />
 
 <br><br>
 
@@ -131,17 +140,29 @@ Next.js      ██████████████░░░░░░  70%  
 <img src="https://img.shields.io/badge/OneDrive-17111F?style=flat-square&logo=microsoftonedrive&logoColor=C084FC" alt="Microsoft OneDrive" />
 <img src="https://img.shields.io/badge/SharePoint-17111F?style=flat-square&logo=microsoftsharepoint&logoColor=C084FC" alt="Microsoft SharePoint" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/🎒_BAG-21_ITEMS_CARRIED-6D28D9?style=flat-square&logoColor=white" alt="21 items carried" />
+
 </div>
 
 <br>
 
-<!-- ===================== ACHIEVEMENTS ====================== -->
+<div align="center"><sub>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</sub></div>
+
+<br>
+
+<!-- ===================== TROPHY CASE ====================== -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-20%2B_TOOLS_MASTERED-2D163B?style=flat-square&logoColor=C084FC" alt="20+ tools mastered" />
-<img src="https://img.shields.io/badge/⚡_ACHIEVEMENT-FULL_STACK_UNLOCKED-2D163B?style=flat-square&logoColor=C084FC" alt="Full stack unlocked" />
-<img src="https://img.shields.io/badge/🔥_ACHIEVEMENT-ALWAYS_SHIPPING-2D163B?style=flat-square&logoColor=C084FC" alt="Always shipping" />
+<img src="https://img.shields.io/badge/🏆_TROPHY_CASE-2D163B?style=for-the-badge&logoColor=C084FC" alt="Trophy Case" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🏆-20%2B_TOOLS_MASTERED-6D28D9?style=for-the-badge&logoColor=white" alt="20+ tools mastered" />
+<img src="https://img.shields.io/badge/⚡-FULL_STACK_UNLOCKED-6D28D9?style=for-the-badge&logoColor=white" alt="Full stack unlocked" />
+<img src="https://img.shields.io/badge/🔥-ALWAYS_SHIPPING-6D28D9?style=for-the-badge&logoColor=white" alt="Always shipping" />
 
 </div>
 
@@ -151,39 +172,30 @@ Next.js      ██████████████░░░░░░  70%  
 <!--                 SOCIAL + FOOTER                        -->
 <!-- ===================================================== -->
 
-```txt
-thaakirah@dev:~/tech-stack$ ./connect.sh
-```
-
 <div align="center">
 
+<sub><code>🕹️ INSERT COIN TO CONNECT</code></sub>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/ThaakirahA">
-  <img src="https://img.shields.io/badge/LinkedIn-2D163B?style=flat-square&logo=linkedin&logoColor=C084FC" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-2D163B?style=for-the-badge&logo=linkedin&logoColor=C084FC" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/akirah_design">
-  <img src="https://img.shields.io/badge/Instagram-2D163B?style=flat-square&logo=instagram&logoColor=C084FC" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-2D163B?style=for-the-badge&logo=instagram&logoColor=C084FC" alt="Instagram" />
 </a>
 &nbsp;
 <a href="mailto:thaakirahagherdien1414@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2D163B?style=flat-square&logo=gmail&logoColor=C084FC" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-2D163B?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ThaakirahA&style=flat-square&color=2D163B&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ThaakirahA&style=for-the-badge&color=2D163B&label=🕹️+ARCADE+VISITS" alt="Arcade visits" />
 
-</div>
+<br><br>
 
-```txt
-> echo "Thanks for stopping by ♡"
-[Process exited with code 0]
-```
-
-<sub><code>Thanks for stopping by ♡</code></sub>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2D163B,100:0B0416&height=100&section=footer" width="100%" alt="footer wave" />
+<sub><code>GAME OVER? NAH — NEW QUEST LOADING... ♡</code></sub>
 
 </div>
