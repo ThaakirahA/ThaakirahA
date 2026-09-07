@@ -52,10 +52,11 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,java,python&theme=dark" alt="JavaScript, TypeScript, C#, Java and Python" />
-<br>
-<img src="https://skillicons.dev/icons?i=php,rust,html,css&theme=dark" alt="PHP, Rust, HTML and CSS" />
-<img src="https://img.shields.io/badge/SQL-17111F?style=flat-square&logo=databricks&logoColor=C084FC" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark&perline=9" alt="JavaScript, TypeScript, C#, Java, Python, PHP, Rust, HTML and CSS" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-2D163B?style=for-the-badge&logoColor=C084FC" alt="SQL" />
 
 </div>
 
@@ -75,10 +76,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind&theme=dark" alt="React, Next.js, Angular, Node.js, Express.js and Tailwind CSS" />
-<br>
-<img src="https://skillicons.dev/icons?i=bootstrap,sass&theme=dark" alt="Bootstrap and Sass" />
-<img src="https://img.shields.io/badge/React_Native-17111F?style=flat-square&logo=react&logoColor=C084FC" alt="React Native" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind,bootstrap,sass,reactnative&theme=dark&perline=9" alt="React, Next.js, Angular, Node.js, Express.js, Tailwind CSS, Bootstrap, Sass and React Native" />
 
 </div>
 
@@ -98,18 +96,20 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel&theme=dark" alt="Git, GitHub, Visual Studio Code, Visual Studio, Postman, Webpack, Jest and Vercel" />
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma,photoshop,illustrator&theme=dark" alt="MongoDB, MySQL, PostgreSQL, Figma, Photoshop and Illustrator" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel&theme=dark&perline=8" alt="Git, GitHub, Visual Studio Code, Visual Studio, Postman, Webpack, Jest and Vercel" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Compass-17111F?style=flat-square&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" />
-<img src="https://img.shields.io/badge/Canva-17111F?style=flat-square&logo=canva&logoColor=C084FC" alt="Canva" />
-<img src="https://img.shields.io/badge/CodePen-17111F?style=flat-square&logo=codepen&logoColor=C084FC" alt="CodePen" />
-<img src="https://img.shields.io/badge/Prezi-17111F?style=flat-square&logo=prezi&logoColor=C084FC" alt="Prezi" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma,canva,codepen&theme=dark&perline=8" alt="MongoDB, MySQL, PostgreSQL, Figma, Canva and CodePen" />
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/badge/Photoshop-2D163B?style=for-the-badge&logo=adobephotoshop&logoColor=C084FC" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Illustrator-2D163B?style=for-the-badge&logo=adobeillustrator&logoColor=C084FC" alt="Adobe Illustrator" />
+<img src="https://img.shields.io/badge/Compass-2D163B?style=for-the-badge&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" />
+<img src="https://img.shields.io/badge/Prezi-2D163B?style=for-the-badge&logo=prezi&logoColor=C084FC" alt="Prezi" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Word-17111F?style=flat-square&logo=microsoftword&logoColor=C084FC" alt="Microsoft Word" />
 <img src="https://img.shields.io/badge/Excel-17111F?style=flat-square&logo=microsoftexcel&logoColor=C084FC" alt="Microsoft Excel" />
