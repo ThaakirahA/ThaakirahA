@@ -30,7 +30,7 @@
 <img
   src="./assets/thaakirah-tech-stack.svg"
   alt="Thaakirah's Tech Stack"
-  width="90%"
+  width="50%"
 />
 
 </div>
