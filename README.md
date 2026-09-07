@@ -27,7 +27,6 @@
 
 <br>
 
-
 <!-- ===================================================== -->
 <!--                 GAME TITLE                             -->
 <!-- ===================================================== -->
@@ -57,41 +56,45 @@
 
 </div>
 
-<br>
-
-<div align="center"><sub>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</sub></div>
-
-<br>
+<br><br>
 
 <!-- ===================== SKILL TREE : LANGUAGES ====================== -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚔️_SKILL_TREE-CORE_LANGUAGES-2D163B?style=for-the-badge&logoColor=C084FC" alt="Skill Tree: Core Languages" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4C1D95,100:8B5CF6&height=90&text=%E2%9A%94%EF%B8%8F%20SKILL%20TREE%20%E2%80%94%20LANGUAGES&fontSize=24&fontColor=F3E8FF&fontAlignY=55&animation=fadeIn" width="100%" alt="Skill Tree: Languages" />
+
+<br>
+
+<img src="https://img.shields.io/badge/🟢_TIER-CORE_FOUNDATION-8B5CF6?style=flat-square&logoColor=white" alt="Tier: Core Foundation" />
 
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark&perline=9" alt="JavaScript, TypeScript, C#, Java, Python, PHP, Rust, HTML and CSS" />
 <br><br>
-<img src="https://img.shields.io/badge/SQL-17111F?style=for-the-badge&logoColor=C084FC" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-4C1D95?style=for-the-badge&logoColor=white" alt="SQL" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/✅_UNLOCKED-9_SKILLS-6D28D9?style=flat-square&logoColor=white" alt="9 skills unlocked" />
+<img src="https://img.shields.io/badge/✅_UNLOCKED-9_SKILLS-4C1D95?style=flat-square&logoColor=white" alt="9 skills unlocked" />
+
+<br><br>
+
+<sub>⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️</sub>
 
 </div>
 
-<br>
-
-<div align="center"><sub>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</sub></div>
-
-<br>
+<br><br>
 
 <!-- ===================== POWER-UPS : FRAMEWORKS ====================== -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🛡️_POWER--UPS-FRAMEWORKS_%2B_LIBRARIES-2D163B?style=for-the-badge&logoColor=C084FC" alt="Power-Ups: Frameworks and Libraries" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:C084FC&height=90&text=%F0%9F%9B%A1%EF%B8%8F%20POWER-UPS%20%E2%80%94%20FRAMEWORKS&fontSize=24&fontColor=F3E8FF&fontAlignY=55&animation=fadeIn" width="100%" alt="Power-Ups: Frameworks" />
+
+<br>
+
+<img src="https://img.shields.io/badge/🔵_TIER-POWER_BOOST-C084FC?style=flat-square&logoColor=2D163B" alt="Tier: Power Boost" />
 
 <br><br>
 
@@ -101,19 +104,23 @@
 
 <img src="https://img.shields.io/badge/✅_EQUIPPED-9_POWER--UPS-6D28D9?style=flat-square&logoColor=white" alt="9 power-ups equipped" />
 
+<br><br>
+
+<sub>🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️🛡️</sub>
+
 </div>
 
-<br>
-
-<div align="center"><sub>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</sub></div>
-
-<br>
+<br><br>
 
 <!-- ===================== INVENTORY : TOOLS & PLATFORMS ====================== -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎒_INVENTORY-TOOLS_%2B_PLATFORMS-2D163B?style=for-the-badge&logoColor=C084FC" alt="Inventory: Tools and Platforms" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2D163B,100:A78BFA&height=90&text=%F0%9F%8E%92%20INVENTORY%20%E2%80%94%20TOOLS%20%2B%20PLATFORMS&fontSize=22&fontColor=F3E8FF&fontAlignY=55&animation=fadeIn" width="100%" alt="Inventory: Tools and Platforms" />
+
+<br>
+
+<img src="https://img.shields.io/badge/🟣_TIER-FULL_LOADOUT-A78BFA?style=flat-square&logoColor=2D163B" alt="Tier: Full Loadout" />
 
 <br><br>
 
@@ -125,10 +132,10 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Photoshop-17111F?style=for-the-badge&logo=adobephotoshop&logoColor=C084FC" alt="Adobe Photoshop" />
-<img src="https://img.shields.io/badge/Illustrator-17111F?style=for-the-badge&logo=adobeillustrator&logoColor=C084FC" alt="Adobe Illustrator" />
-<img src="https://img.shields.io/badge/Compass-17111F?style=for-the-badge&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" />
-<img src="https://img.shields.io/badge/Prezi-17111F?style=for-the-badge&logo=prezi&logoColor=C084FC" alt="Prezi" />
+<img src="https://img.shields.io/badge/Photoshop-2D163B?style=for-the-badge&logo=adobephotoshop&logoColor=C084FC" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Illustrator-2D163B?style=for-the-badge&logo=adobeillustrator&logoColor=C084FC" alt="Adobe Illustrator" />
+<img src="https://img.shields.io/badge/Compass-2D163B?style=for-the-badge&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" />
+<img src="https://img.shields.io/badge/Prezi-2D163B?style=for-the-badge&logo=prezi&logoColor=C084FC" alt="Prezi" />
 
 <br><br>
 
@@ -142,31 +149,31 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎒_BAG-21_ITEMS_CARRIED-6D28D9?style=flat-square&logoColor=white" alt="21 items carried" />
+<img src="https://img.shields.io/badge/🎒_BAG-21_ITEMS_CARRIED-2D163B?style=flat-square&logoColor=white" alt="21 items carried" />
+
+<br><br>
+
+<sub>🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒🎒</sub>
 
 </div>
 
-<br>
-
-<div align="center"><sub>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪</sub></div>
-
-<br>
+<br><br>
 
 <!-- ===================== TROPHY CASE ====================== -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆_TROPHY_CASE-2D163B?style=for-the-badge&logoColor=C084FC" alt="Trophy Case" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C084FC,100:4C1D95&height=90&text=%F0%9F%8F%86%20TROPHY%20CASE&fontSize=24&fontColor=2D163B&fontAlignY=55&animation=fadeIn" width="100%" alt="Trophy Case" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🏆-20%2B_TOOLS_MASTERED-6D28D9?style=for-the-badge&logoColor=white" alt="20+ tools mastered" />
+<img src="https://img.shields.io/badge/🏆-20%2B_TOOLS_MASTERED-4C1D95?style=for-the-badge&logoColor=white" alt="20+ tools mastered" />
 <img src="https://img.shields.io/badge/⚡-FULL_STACK_UNLOCKED-6D28D9?style=for-the-badge&logoColor=white" alt="Full stack unlocked" />
-<img src="https://img.shields.io/badge/🔥-ALWAYS_SHIPPING-6D28D9?style=for-the-badge&logoColor=white" alt="Always shipping" />
+<img src="https://img.shields.io/badge/🔥-ALWAYS_SHIPPING-8B5CF6?style=for-the-badge&logoColor=white" alt="Always shipping" />
 
 </div>
 
-<br>
+<br><br>
 
 <!-- ===================================================== -->
 <!--                 SOCIAL + FOOTER                        -->
