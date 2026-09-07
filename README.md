@@ -89,7 +89,7 @@
 <img
   src="./assets/code-kingdom-world-01.svg"
   width="100%"
-  alt="World 01 Code Kingdom - animated cyber pixel contribution world"
+  alt="World of Akirah Designs - animated cyber pixel contribution world"
 />
 
 <br>
@@ -117,7 +117,7 @@
 <br><br>
 
 <sub>
-  <code>SMALL COMMITS MAKE BIG DREAMS // LEARN • CODE • BUILD • REPEAT</code>
+  <code>Thaakirah's Pixel world // LEARN • CODE • BUILD • REPEAT</code>
 </sub>
 
 <br><br>
