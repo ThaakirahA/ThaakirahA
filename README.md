@@ -19,19 +19,76 @@
 
 <br>
 
-## 🛠️ Tech Stack
+<!-- ========================= -->
+<!--         TECH STACK        -->
+<!-- ========================= -->
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,figma,git,vscode,postgres"
-  alt="JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, Node.js, Figma, Git, VS Code and PostgreSQL"
-/>
-
-</div>
+## 🛠️ Tech Stack
 
 <br>
 
+### 💜 Languages
+
+<img
+  src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css"
+  alt="JavaScript, TypeScript, C#, Java, Python, PHP, Rust, HTML and CSS"
+/>
+
+<br><br>
+
+`JavaScript` · `TypeScript` · `C#` · `Java` · `Python` · `PHP` · `Rust` · `HTML` · `CSS` · `SQL`
+
+<br><br>
+
+### ⚡ Frameworks / Libraries
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind,bootstrap,sass"
+  alt="React, Next.js, Angular, Node.js, Express.js, Tailwind CSS, Bootstrap and Sass"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/React_Native-2D163B?style=flat-square&logo=react&logoColor=C084FC"
+  alt="React Native"
+/>
+
+<br><br>
+
+`React` · `React Native` · `Next.js` · `Angular` · `Node.js` · `Express.js` · `Tailwind CSS` · `Bootstrap` · `Sass / SCSS`
+
+<br><br>
+
+### 🧰 Tools & Platforms
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel,mongodb,mysql,postgres,figma,photoshop,illustrator"
+  alt="Git, GitHub, VS Code, Visual Studio, Postman, Webpack, Jest, Vercel, MongoDB, MySQL, PostgreSQL, Figma, Photoshop and Illustrator"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MongoDB_Compass-2D163B?style=flat-square&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" />
+<img src="https://img.shields.io/badge/CodePen-2D163B?style=flat-square&logo=codepen&logoColor=C084FC" alt="CodePen" />
+<img src="https://img.shields.io/badge/Canva-2D163B?style=flat-square&logo=canva&logoColor=C084FC" alt="Canva" />
+<img src="https://img.shields.io/badge/Prezi-2D163B?style=flat-square&logo=prezi&logoColor=C084FC" alt="Prezi" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Word-2D163B?style=flat-square&logo=microsoftword&logoColor=C084FC" alt="Microsoft Word" />
+<img src="https://img.shields.io/badge/Excel-2D163B?style=flat-square&logo=microsoftexcel&logoColor=C084FC" alt="Microsoft Excel" />
+<img src="https://img.shields.io/badge/PowerPoint-2D163B?style=flat-square&logo=microsoftpowerpoint&logoColor=C084FC" alt="Microsoft PowerPoint" />
+<img src="https://img.shields.io/badge/Outlook-2D163B?style=flat-square&logo=microsoftoutlook&logoColor=C084FC" alt="Microsoft Outlook" />
+<img src="https://img.shields.io/badge/Teams-2D163B?style=flat-square&logo=microsoftteams&logoColor=C084FC" alt="Microsoft Teams" />
+<img src="https://img.shields.io/badge/OneDrive-2D163B?style=flat-square&logo=microsoftonedrive&logoColor=C084FC" alt="Microsoft OneDrive" />
+<img src="https://img.shields.io/badge/SharePoint-2D163B?style=flat-square&logo=microsoftsharepoint&logoColor=C084FC" alt="Microsoft SharePoint" />
+
+<br>
+
+</div>
 
 ---
 
