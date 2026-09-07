@@ -43,8 +43,7 @@
 <img src="https://img.shields.io/badge/TIER_01-LANGUAGES-4C1D95?style=flat-square&logoColor=white" alt="Tier 01 — Languages" />
 <br>
 <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark&perline=9" alt="JavaScript, TypeScript, C#, Java, Python, PHP, Rust, HTML and CSS" />
-<br>
-<img src="https://img.shields.io/badge/SQL-2D163B?style=flat-square&logoColor=C084FC" alt="SQL" />
+<img src="https://img.shields.io/badge/-%20-2D163B?style=for-the-badge&logoColor=C084FC" alt="SQL" width="52" height="52" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:C084FC&height=2&width=100%25" width="100%" alt="divider" />
 
@@ -64,18 +63,17 @@
 <br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma,canva,codepen&theme=dark&perline=8" alt="MongoDB, MySQL, PostgreSQL, Figma, Canva and CodePen" />
 <br>
-<img src="https://img.shields.io/badge/Photoshop-17111F?style=flat-square&logo=adobephotoshop&logoColor=C084FC" alt="Adobe Photoshop" />
-<img src="https://img.shields.io/badge/Illustrator-17111F?style=flat-square&logo=adobeillustrator&logoColor=C084FC" alt="Adobe Illustrator" />
-<img src="https://img.shields.io/badge/Compass-17111F?style=flat-square&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" />
-<img src="https://img.shields.io/badge/Prezi-17111F?style=flat-square&logo=prezi&logoColor=C084FC" alt="Prezi" />
-<br>
-<img src="https://img.shields.io/badge/Word-17111F?style=flat-square&logo=microsoftword&logoColor=C084FC" alt="Microsoft Word" />
-<img src="https://img.shields.io/badge/Excel-17111F?style=flat-square&logo=microsoftexcel&logoColor=C084FC" alt="Microsoft Excel" />
-<img src="https://img.shields.io/badge/PowerPoint-17111F?style=flat-square&logo=microsoftpowerpoint&logoColor=C084FC" alt="Microsoft PowerPoint" />
-<img src="https://img.shields.io/badge/Outlook-17111F?style=flat-square&logo=microsoftoutlook&logoColor=C084FC" alt="Microsoft Outlook" />
-<img src="https://img.shields.io/badge/Teams-17111F?style=flat-square&logo=microsoftteams&logoColor=C084FC" alt="Microsoft Teams" />
-<img src="https://img.shields.io/badge/OneDrive-17111F?style=flat-square&logo=microsoftonedrive&logoColor=C084FC" alt="Microsoft OneDrive" />
-<img src="https://img.shields.io/badge/SharePoint-17111F?style=flat-square&logo=microsoftsharepoint&logoColor=C084FC" alt="Microsoft SharePoint" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=adobephotoshop&logoColor=C084FC" alt="Adobe Photoshop" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=adobeillustrator&logoColor=C084FC" alt="Adobe Illustrator" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=prezi&logoColor=C084FC" alt="Prezi" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=microsoftword&logoColor=C084FC" alt="Microsoft Word" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=microsoftexcel&logoColor=C084FC" alt="Microsoft Excel" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=microsoftpowerpoint&logoColor=C084FC" alt="Microsoft PowerPoint" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=microsoftoutlook&logoColor=C084FC" alt="Microsoft Outlook" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=microsoftteams&logoColor=C084FC" alt="Microsoft Teams" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=microsoftonedrive&logoColor=C084FC" alt="Microsoft OneDrive" width="52" height="52" />
+<img src="https://img.shields.io/badge/-%20-17111F?style=for-the-badge&logo=microsoftsharepoint&logoColor=C084FC" alt="Microsoft SharePoint" width="52" height="52" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
