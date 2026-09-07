@@ -28,8 +28,8 @@
 <div align="center">
 
 <img
-  src="./assets/tech-stack.png"
-  alt="Thaakirah's Tech Stack - Languages, Frameworks, Libraries, Tools and Platforms"
+  src="./assets/thaakirah-tech-stack.svg"
+  alt="Thaakirah's Tech Stack"
   width="90%"
 />
 
