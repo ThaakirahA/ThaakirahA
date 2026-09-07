@@ -1,3 +1,7 @@
+<!-- ===================================================== -->
+<!--                      HERO                             -->
+<!-- ===================================================== -->
+
 <div align="center">
   <img
     src="./assets/thaakirah-minimal-portfolio-animated.svg"
@@ -7,11 +11,15 @@
 </div>
 
 
+<!-- ===================================================== -->
+<!--                    ABOUT ME                           -->
+<!-- ===================================================== -->
+
 ## 👩🏽‍💻 About Me
 
-🎓 Frontend degree in ICT graduate & currently an **Honours student in Software Engineering**
+🎓 ICT graduate specialising in **Frontend Development** & currently an **Honours student in Software Engineering**
 
-💻 Frontend-leaning software engineer with a focus on **clean UI, usability and readable code**
+💻 Frontend-leaning software engineer focused on **clean UI, usability and readable code**
 
 🌱 Constantly learning, experimenting and improving my craft
 
@@ -19,7 +27,10 @@
 
 <br>
 
-<!-- ==================== TECH STACK ==================== -->
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -28,19 +39,22 @@
 
 <br>
 
-<!-- ═══════════════ 01 · LANGUAGES ═══════════════ -->
+<!-- LANGUAGES -->
 
 <img src="https://img.shields.io/badge/01_%2F%2F_LANGUAGES-2D163B?style=for-the-badge&logoColor=C084FC" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark" />
+<img
+  src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark"
+  alt="JavaScript, TypeScript, C#, Java, Python, PHP, Rust, HTML and CSS"
+/>
 
 <br>
 
 <img src="https://img.shields.io/badge/SQL-17111F?style=flat-square&logo=databricks&logoColor=C084FC" />
 
-<!-- ═══════════ 02 · FRAMEWORKS ═══════════ -->
+<!-- FRAMEWORKS -->
 
 <br>
 
@@ -48,10 +62,17 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind,bootstrap,sass&theme=dark" />
-<img src="https://img.shields.io/badge/React_Native-17111F?style=flat-square&logo=react&logoColor=C084FC" />
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind,bootstrap,sass&theme=dark"
+  alt="React, Next.js, Angular, Node.js, Express.js, Tailwind, Bootstrap and Sass"
+/>
 
-<!-- ═══════════ 03 · TOOLS ═══════════ -->
+<img
+  src="https://img.shields.io/badge/React_Native-17111F?style=flat-square&logo=react&logoColor=C084FC"
+  alt="React Native"
+/>
+
+<!-- TOOLS -->
 
 <br>
 
@@ -59,11 +80,18 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel,mongodb,mysql,postgres&theme=dark" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel,mongodb,mysql,postgres&theme=dark"
+  alt="Development tools and databases"
+/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=dark" />
+<img
+  src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=dark"
+  alt="Figma, Photoshop and Illustrator"
+/>
+
 <img src="https://img.shields.io/badge/Compass-17111F?style=flat-square&logo=mongodb&logoColor=C084FC" />
 <img src="https://img.shields.io/badge/Canva-17111F?style=flat-square&logo=canva&logoColor=C084FC" />
 <img src="https://img.shields.io/badge/CodePen-17111F?style=flat-square&logo=codepen&logoColor=C084FC" />
@@ -85,22 +113,38 @@
 
 </div>
 
+<br>
+
+
+<!-- ===================================================== -->
+<!--                    LET'S CONNECT                      -->
+<!-- ===================================================== -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ThaakirahA)
+<a href="https://linkedin.com/in/ThaakirahA">
+  <img src="https://img.shields.io/badge/LinkedIn-2D163B?style=for-the-badge&logo=linkedin&logoColor=C084FC" />
+</a>
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akirah_design)
+<a href="https://www.instagram.com/akirah_design">
+  <img src="https://img.shields.io/badge/Instagram-2D163B?style=for-the-badge&logo=instagram&logoColor=C084FC" />
+</a>
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-282C34?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:thaakirahagherdien1414@gmail.com)
+<a href="mailto:thaakirahagherdien1414@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2D163B?style=for-the-badge&logo=gmail&logoColor=C084FC" />
+</a>
 
 <br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=ThaakirahA&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS"
+  src="https://komarev.com/ghpvc/?username=ThaakirahA&style=for-the-badge&color=2D163B&label=PROFILE+VIEWS"
   alt="Profile views"
 />
+
+<br>
+
+<sub><code>Thanks for stopping by ♡</code></sub>
 
 </div>
