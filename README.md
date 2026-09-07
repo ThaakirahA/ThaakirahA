@@ -80,8 +80,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
 
+
 <!-- ===================================================== -->
-<!--              World of Akirah Designs                  -->
+<!--                 WORLD OF AKIRAH DESIGNS              -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -117,52 +118,7 @@
 <br><br>
 
 <sub>
-  <code>Thaakirah's Pixel world // LEARN • CODE • BUILD • REPEAT</code>
-</sub>
-
-<br><br>
-
-</div>
-
-
-<!-- ===================================================== -->
-<!--              WORLD 01 // CODE KINGDOM                -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img
-  src="./assets/code-kingdom-world-01.svg"
-  width="100%"
-  alt="World 01 Code Kingdom - animated cyber pixel contribution world"
-/>
-
-<br>
-
-<img
-  src="https://img.shields.io/badge/PLAYER-THAAKIRAH-A78BFA?style=for-the-badge&labelColor=17111F"
-  alt="Player Thaakirah"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/LEVEL-01-C084FC?style=for-the-badge&labelColor=17111F"
-  alt="Level 01"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/LIVES-%E2%99%A5_%E2%99%A5_%E2%99%A5-8B5CF6?style=for-the-badge&labelColor=17111F"
-  alt="Three lives"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/MODE-BUILD-6D28D9?style=for-the-badge&labelColor=17111F"
-  alt="Build mode"
-/>
-
-<br><br>
-
-<sub>
-  <code>Thaakirah's Pixel world // LEARN • CODE • BUILD • REPEAT</code>
+  <code>THAAKIRAH'S PIXEL WORLD // LEARN • CODE • BUILD • REPEAT</code>
 </sub>
 
 <br>
@@ -182,3 +138,4 @@
 />
 
 </div>
+
