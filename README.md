@@ -19,25 +19,170 @@
 
 <br>
 
-<!-- ============================== -->
-<!--          TECH STACK            -->
-<!-- ============================== -->
-
-<br>
+<!-- ====================================================== -->
+<!--                     TECH STACK                         -->
+<!-- ====================================================== -->
 
 <div align="center">
 
 <img
-  src="./assets/thaakirah-tech-stack.svg"
-  alt="Thaakirah's Tech Stack"
-  width="50%"
+  src="https://img.shields.io/badge/TECH_STACK-0D0B14?style=for-the-badge&logo=codeforces&logoColor=C084FC"
+  height="42"
 />
+
+<br>
+
+<sub>
+  <code>TOOLS THAT POWER MY IDEAS</code>
+</sub>
+
+<br><br>
+
+<!-- ================= LANGUAGES ================= -->
+
+<img
+  src="https://img.shields.io/badge/01_%2F%2F_LANGUAGES-2D163B?style=for-the-badge&logoColor=C084FC"
+/>
+
+<br><br>
+
+<img
+  src="https://skillicons.dev/icons?i=js,ts,cs,java,python&theme=dark"
+  alt="JavaScript, TypeScript, C#, Java, Python"
+/>
+
+<br>
+
+<img
+  src="https://skillicons.dev/icons?i=php,rust,html,css&theme=dark"
+  alt="PHP, Rust, HTML, CSS"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-17111F?style=flat-square&logo=databricks&logoColor=C084FC" />
+
+<br><br>
+
+<code>⌁ ideas start here ⌁</code>
+
+<br><br><br>
+
+
+<!-- ============ FRAMEWORKS / LIBRARIES ============ -->
+
+<img
+  src="https://img.shields.io/badge/02_%2F%2F_FRAMEWORKS_%2B_LIBRARIES-2D163B?style=for-the-badge&logoColor=C084FC"
+/>
+
+<br><br>
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express&theme=dark"
+  alt="React, Next.js, Angular, Node.js, Express.js"
+/>
+
+<br>
+
+<img
+  src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass&theme=dark"
+  alt="Tailwind CSS, Bootstrap, Sass"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/React_Native-17111F?style=flat-square&logo=react&logoColor=C084FC"
+  alt="React Native"
+/>
+
+<br><br>
+
+<code>⌁ build faster • create smarter ⌁</code>
+
+<br><br><br>
+
+
+<!-- ================= TOOLS ================= -->
+
+<img
+  src="https://img.shields.io/badge/03_%2F%2F_TOOLS_%2B_PLATFORMS-2D163B?style=for-the-badge&logoColor=C084FC"
+/>
+
+<br><br>
+
+<!-- DEV TOOLS -->
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel&theme=dark"
+  alt="Git, GitHub, VS Code, Visual Studio, Postman, Webpack, Jest, Vercel"
+/>
+
+<br><br>
+
+<!-- DATABASES -->
+
+<img
+  src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"
+  alt="MongoDB, MySQL, PostgreSQL"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/MongoDB_Compass-17111F?style=flat-square&logo=mongodb&logoColor=C084FC"
+  alt="MongoDB Compass"
+/>
+
+<br><br>
+
+<!-- DESIGN -->
+
+<img
+  src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=dark"
+  alt="Figma, Photoshop, Illustrator"
+/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Canva-17111F?style=flat-square&logo=canva&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/CodePen-17111F?style=flat-square&logo=codepen&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Prezi-17111F?style=flat-square&logo=prezi&logoColor=C084FC" />
+
+<br><br>
+
+<!-- MICROSOFT -->
+
+<img src="https://img.shields.io/badge/Word-17111F?style=flat-square&logo=microsoftword&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Excel-17111F?style=flat-square&logo=microsoftexcel&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/PowerPoint-17111F?style=flat-square&logo=microsoftpowerpoint&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Outlook-17111F?style=flat-square&logo=microsoftoutlook&logoColor=C084FC" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Teams-17111F?style=flat-square&logo=microsoftteams&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/OneDrive-17111F?style=flat-square&logo=microsoftonedrive&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/SharePoint-17111F?style=flat-square&logo=microsoftsharepoint&logoColor=C084FC" />
+
+<br><br><br>
+
+<!-- ================= STATUS BAR ================= -->
+
+<img
+  src="https://img.shields.io/badge/THAAKIRAH.DEV-0D0B14?style=for-the-badge&logo=github&logoColor=C084FC"
+/>
+<img
+  src="https://img.shields.io/badge/●_ONLINE-0D0B14?style=for-the-badge&logoColor=C084FC"
+/>
+
+<br><br>
+
+<code>SMALL STEPS  •  BIGGER THINGS  ♡</code>
 
 </div>
 
 <br>
 
----
 
 ## 🤝 Let's Connect
 
