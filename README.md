@@ -32,34 +32,6 @@
 
 <br>
 
----
-
-<div align="center">
-
-<img
-  src="./assets/happy-cute-purple-cat-neon-keyboard.svg"
-  width="100%"
-  alt="Animated purple cat typing Welcome Geeks on a neon keyboard"
-/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img
-  src="https://raw.githubusercontent.com/ThaakirahA/ThaakirahA/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub contribution snake"
-/>
-<!--END_SECTION:snake-->
-
-</div>
-
-<br>
 
 ---
 
