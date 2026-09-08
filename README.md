@@ -80,6 +80,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
+<!-- ===================================================== -->
+<!--                 Projects HEADER                       -->
+<!-- ===================================================== -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=My+Projects" alt="My+Projects" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
 
 <div align="center">
