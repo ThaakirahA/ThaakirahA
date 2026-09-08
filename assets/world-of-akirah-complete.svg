@@ -765,49 +765,146 @@ ending with a seamless underground THE END scene.
 
 
 <!-- ===================================================== -->
-<!--                        PLAYER                         -->
+<!--                 RUNNING PLAYER                        -->
 <!-- ===================================================== -->
 
-<g transform="translate(365 290)">
+<g id="runner">
 
-  <!-- hair -->
-  <rect x="5" y="-56" width="34" height="38" rx="8" fill="#12051F"/>
-  <rect x="-5" y="-45" width="12" height="41" fill="#12051F"/>
-  <rect x="32" y="-43" width="14" height="43" fill="#12051F"/>
+  <!-- ===================== CHARACTER BODY ===================== -->
+  <g>
 
-  <!-- face -->
-  <rect x="12" y="-50" width="25" height="27" rx="5" fill="#C87964"/>
+    <!-- hair -->
+    <rect x="5" y="-56" width="34" height="38" rx="8" fill="#12051F"/>
+    <rect x="-5" y="-45" width="12" height="41" fill="#12051F"/>
+    <rect x="32" y="-43" width="14" height="43" fill="#12051F"/>
 
-  <!-- hair fringe -->
-  <rect x="7" y="-55" width="29" height="9" fill="#160521"/>
+    <!-- face -->
+    <rect x="12" y="-50" width="25" height="27" rx="5" fill="#C87964"/>
 
-  <!-- eye -->
-  <rect x="30" y="-39" width="3" height="3" fill="#13071F"/>
+    <!-- fringe -->
+    <rect x="7" y="-55" width="29" height="9" fill="#160521"/>
 
-  <!-- body -->
-  <rect x="8" y="-20" width="32" height="35" fill="#7C3AED"/>
+    <!-- eye -->
+    <rect x="30" y="-39" width="3" height="3" fill="#13071F"/>
 
-  <!-- backpack -->
-  <rect x="-2" y="-18" width="14" height="27" fill="#4C1D95"/>
+    <!-- torso -->
+    <rect x="8" y="-20" width="32" height="35" fill="#7C3AED"/>
 
-  <!-- legs -->
-  <rect x="10" y="14" width="10" height="22" fill="#151020"/>
-  <rect x="29" y="14" width="10" height="22" fill="#151020"/>
+    <!-- backpack -->
+    <rect x="-2" y="-18" width="14" height="27" fill="#4C1D95"/>
 
-  <!-- shoes -->
-  <rect x="6" y="33" width="17" height="7" fill="#A78BFA"/>
-  <rect x="27" y="33" width="17" height="7" fill="#A78BFA"/>
+    <!-- ===================== LEFT ARM ===================== -->
+
+    <g>
+      <rect x="2" y="-14" width="9" height="26" rx="3" fill="#C87964"/>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-28 7 -12;28 7 -12;-28 7 -12"
+        dur=".34s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <!-- ===================== RIGHT ARM ===================== -->
+
+    <g>
+      <rect x="37" y="-14" width="9" height="26" rx="3" fill="#C87964"/>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="28 42 -12;-28 42 -12;28 42 -12"
+        dur=".34s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <!-- ===================== LEFT LEG ===================== -->
+
+    <g>
+      <rect x="10" y="14" width="10" height="23" fill="#151020"/>
+      <rect x="6" y="34" width="18" height="7" fill="#A78BFA"/>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="24 15 14;-24 15 14;24 15 14"
+        dur=".34s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <!-- ===================== RIGHT LEG ===================== -->
+
+    <g>
+      <rect x="29" y="14" width="10" height="23" fill="#151020"/>
+      <rect x="27" y="34" width="18" height="7" fill="#A78BFA"/>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-24 34 14;24 34 14;-24 34 14"
+        dur=".34s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <!-- ===================== BODY BOUNCE ===================== -->
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="
+        0 0;
+        0 -3;
+        0 0;
+        0 -2;
+        0 0
+      "
+      dur=".34s"
+      repeatCount="indefinite"
+      additive="sum"
+    />
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!--               RUN ACROSS THE WORLD                  -->
+  <!-- ===================================================== -->
 
   <animateTransform
     attributeName="transform"
     type="translate"
-    values="365 290;369 287;365 290"
-    dur="1.2s"
+    values="
+      300 292;
+      470 292;
+      620 292;
+      760 292;
+      900 292;
+      1030 292;
+      1165 292;
+      1280 292;
+      1360 292
+    "
+    keyTimes="
+      0;
+      .14;
+      .28;
+      .42;
+      .56;
+      .70;
+      .82;
+      .92;
+      1
+    "
+    dur="10s"
     repeatCount="indefinite"
   />
 
 </g>
-
 
 
 <!-- ===================================================== -->
