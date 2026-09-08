@@ -80,18 +80,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
 
-<!-- ===================================================== -->
-<!--                 WORLD OF AKIRAH DESIGNS              -->
-<!-- ===================================================== -->
 
 <div align="center">
 
 <img
-  src="./assets/world-of-akirah-complete.svg"
+  src="./assets/world-of-akirah-clean.svg"
   width="100%"
   alt="World of Akirah Designs - animated pixel world ending"
 />
 
 </div>
-
-
