@@ -1,4 +1,3 @@
-
 <!-- ===================================================== -->
 <!--                      HERO                             -->
 <!-- ===================================================== -->
@@ -18,16 +17,9 @@
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=About+Me"
-  alt="About Me"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=About+Me" alt="About Me" />
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25"
-  width="100%"
-  alt="accent bar"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
 🎓 ICT degree graduate specialising in **Frontend Development** & currently an **Honours student in Software Engineering**
 
@@ -35,115 +27,49 @@
 
 🌱 Constantly learning, experimenting and improving my craft
 
-</div>
-
 <br>
 
-
 <!-- ===================================================== -->
-<!--                    TECH STACK                         -->
+<!--                 HEADER                                 -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=TECH+STACK"
-  alt="Tech Stack"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=TECH+STACK" alt="Tech Stack" />
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25"
-  width="100%"
-  alt="accent bar"
-/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
 <!-- ===================== TIER 01 : LANGUAGES ====================== -->
 
-<img
-  src="https://img.shields.io/badge/TIER_01-LANGUAGES-4C1D95?style=flat-square&logoColor=white"
-  alt="Tier 01 — Languages"
-/>
-
+<img src="https://img.shields.io/badge/TIER_01-LANGUAGES-4C1D95?style=flat-square&logoColor=white" alt="Tier 01 — Languages" />
 <br>
-
-<img
-  src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark&perline=9"
-  alt="JavaScript, TypeScript, C#, Java, Python, PHP, Rust, HTML and CSS"
-/>
-
+<img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,php,rust,html,css&theme=dark&perline=9" alt="JavaScript, TypeScript, C#, Java, Python, PHP, Rust, HTML and CSS" />
 <br>
+<img src="https://img.shields.io/badge/SQL-2D163B?style=flat-square&logoColor=C084FC" alt="SQL" />
 
-<img
-  src="https://img.shields.io/badge/SQL-2D163B?style=flat-square&logoColor=C084FC"
-  alt="SQL"
-/>
-
-<br><br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:C084FC&height=2&width=100%25"
-  width="100%"
-  alt="divider"
-/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:C084FC&height=2&width=100%25" width="100%" alt="divider" />
 
 <!-- ===================== TIER 02 : FRAMEWORKS ====================== -->
 
-<img
-  src="https://img.shields.io/badge/TIER_02-FRAMEWORKS_%26_LIBRARIES-6D28D9?style=flat-square&logoColor=white"
-  alt="Tier 02 — Frameworks and Libraries"
-/>
-
+<img src="https://img.shields.io/badge/TIER_02-FRAMEWORKS_%26_LIBRARIES-6D28D9?style=flat-square&logoColor=white" alt="Tier 02 — Frameworks and Libraries" />
 <br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind,bootstrap,sass,reactnative&theme=dark&perline=9" alt="React, Next.js, Angular, Node.js, Express.js, Tailwind CSS, Bootstrap, Sass and React Native" />
 
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,tailwind,bootstrap,sass,reactnative&theme=dark&perline=9"
-  alt="React, Next.js, Angular, Node.js, Express.js, Tailwind CSS, Bootstrap, Sass and React Native"
-/>
-
-<br><br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:C084FC,100:A78BFA&height=2&width=100%25"
-  width="100%"
-  alt="divider"
-/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:C084FC,100:A78BFA&height=2&width=100%25" width="100%" alt="divider" />
 
 <!-- ===================== TIER 03 : TOOLS & PLATFORMS ====================== -->
 
-<img
-  src="https://img.shields.io/badge/TIER_03-TOOLS_%26_PLATFORMS-A78BFA?style=flat-square&logoColor=2D163B"
-  alt="Tier 03 — Tools and Platforms"
-/>
-
+<img src="https://img.shields.io/badge/TIER_03-TOOLS_%26_PLATFORMS-A78BFA?style=flat-square&logoColor=2D163B" alt="Tier 03 — Tools and Platforms" />
 <br>
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel&theme=dark&perline=8"
-  alt="Git, GitHub, Visual Studio Code, Visual Studio, Postman, Webpack, Jest and Vercel"
-/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,webpack,jest,vercel&theme=dark&perline=8" alt="Git, GitHub, Visual Studio Code, Visual Studio, Postman, Webpack, Jest and Vercel" />
 <br>
-
-<img
-  src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma,canva,codepen&theme=dark&perline=8"
-  alt="MongoDB, MySQL, PostgreSQL, Figma, Canva and CodePen"
-/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,figma,canva,codepen&theme=dark&perline=8" alt="MongoDB, MySQL, PostgreSQL, Figma, Canva and CodePen" />
 <br>
-
 <img src="https://img.shields.io/badge/Photoshop-17111F?style=flat-square&logo=adobephotoshop&logoColor=C084FC" alt="Adobe Photoshop" />
 <img src="https://img.shields.io/badge/Illustrator-17111F?style=flat-square&logo=adobeillustrator&logoColor=C084FC" alt="Adobe Illustrator" />
 <img src="https://img.shields.io/badge/Compass-17111F?style=flat-square&logo=mongodb&logoColor=C084FC" alt="MongoDB Compass" />
 <img src="https://img.shields.io/badge/Prezi-17111F?style=flat-square&logo=prezi&logoColor=C084FC" alt="Prezi" />
-
 <br>
-
 <img src="https://img.shields.io/badge/Word-17111F?style=flat-square&logo=microsoftword&logoColor=C084FC" alt="Microsoft Word" />
 <img src="https://img.shields.io/badge/Excel-17111F?style=flat-square&logo=microsoftexcel&logoColor=C084FC" alt="Microsoft Excel" />
 <img src="https://img.shields.io/badge/PowerPoint-17111F?style=flat-square&logo=microsoftpowerpoint&logoColor=C084FC" alt="Microsoft PowerPoint" />
@@ -152,9 +78,8 @@
 <img src="https://img.shields.io/badge/OneDrive-17111F?style=flat-square&logo=microsoftonedrive&logoColor=C084FC" alt="Microsoft OneDrive" />
 <img src="https://img.shields.io/badge/SharePoint-17111F?style=flat-square&logo=microsoftsharepoint&logoColor=C084FC" alt="Microsoft SharePoint" />
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
-<br>
 
 
 <!-- ===================================================== -->
@@ -244,4 +169,3 @@ A collection of my work, experiments and projects — designed and built from th
 />
 
 </div>
-
