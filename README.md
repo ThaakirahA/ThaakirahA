@@ -87,20 +87,9 @@
 <div align="center">
 
 <img
-  src="./assets/code-kingdom-world-01.svg"
+  src="./assets/world-of-akirah-complete.svg"
   width="100%"
-  alt="World of Akirah Designs - animated cyber pixel contribution world"
-/>
-
-
-<!-- ===================================================== -->
-<!--                       THE END                         -->
-<!-- ===================================================== -->
-
-<img
-  src="./assets/the-end-akirah-designs.svg"
-  width="100%"
-  alt="The End - Thank you for visiting Akirah Designs"
+  alt="World of Akirah Designs - animated pixel world ending"
 />
 
 </div>
