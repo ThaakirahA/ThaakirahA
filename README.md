@@ -118,34 +118,40 @@
 
 <br><br>
 
-### `01 // PERSONAL PORTFOLIO`
+<!-- ===================================================== -->
+<!--                    MY PROJECTS                        -->
+<!-- ===================================================== -->
 
-**Frontend Engineering • UI/UX • Responsive Design**
+<div align="center">
 
-A collection of my work, experiments and projects — designed and built from the ground up.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=MY+PROJECTS"
+  alt="My Projects"
+/>
 
-<sub>↗ CLICK THE PROJECT ABOVE TO EXPLORE</sub>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25"
+  width="100%"
+  alt="accent bar"
+/>
+
+<br><br>
+
+<!-- ===================== CLICKABLE PROJECT BANNER ===================== -->
+
+<a href="YOUR_PORTFOLIO_URL_HERE">
+  <img
+    src="./assets/projects-portfolio-banner.png"
+    width="100%"
+    alt="Projects — Click here to view my portfolio"
+  />
+</a>
 
 <br>
 
-<img
-  src="https://img.shields.io/badge/React-17111F?style=flat-square&logo=react&logoColor=C084FC"
-  alt="React"
-/>
-<img
-  src="https://img.shields.io/badge/JavaScript-17111F?style=flat-square&logo=javascript&logoColor=C084FC"
-  alt="JavaScript"
-/>
-<img
-  src="https://img.shields.io/badge/UI%2FUX-17111F?style=flat-square&logo=figma&logoColor=C084FC"
-  alt="UI/UX"
-/>
-<img
-  src="https://img.shields.io/badge/Responsive-17111F?style=flat-square&logo=css3&logoColor=C084FC"
-  alt="Responsive Design"
-/>
+<sub><code>↑ CLICK THE BANNER TO ENTER MY PORTFOLIO ↑</code></sub>
 
-<br><br><br>
+<br><br>
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25"
