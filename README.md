@@ -92,22 +92,6 @@
   alt="World of Akirah Designs - animated cyber pixel contribution world"
 />
 
-<!-- ===================== WORLD TRANSITION ===================== -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,20:2D163B,50:6D28D9,80:2D163B,100:030107&height=4&width=100%25"
-  width="100%"
-  alt="Pixel world transition"
-/>
-
-<sub>
-  <code>◆ LEVEL COMPLETE // EXITING CODE KINGDOM ◆</code>
-</sub>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=2200&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&height=24&lines=%E2%96%B8+SAVING+PROGRESS...;%E2%96%B8+WORLD+01+CLEARED;%E2%96%B8+ROLLING+CREDITS..."
-  alt="Level transition"
-/>
 
 <!-- ===================================================== -->
 <!--                       THE END                         -->
