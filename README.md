@@ -92,11 +92,10 @@
   src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=MY+PROJECTS"
   alt="My Projects"
 />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 <br>
 
 ### ✦ Explore My Projects ✦
-
 <a href="YOUR-PORTFOLIO-LINK-HERE">
   <img
     src="https://img.shields.io/badge/CLICK_HERE_TO_VIEW_MY_PROJECTS-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"
