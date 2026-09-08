@@ -89,6 +89,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
+<a href="https://your-portfolio.com">
+  <img src="./assets/portfolio-preview.png" width="85%" />
+</a>
 
 <div align="center">
 
