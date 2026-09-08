@@ -132,7 +132,7 @@
 <div align="center">
 
 <img
-  src="./assets/the-end-akirah-designs.svg"
+  src="/assets/the-end-akirah-designs.svg"
   width="100%"
   alt="The End - Thank you for visiting Akirah Designs"
 />
