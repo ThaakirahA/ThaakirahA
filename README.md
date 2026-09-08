@@ -21,13 +21,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
-🎓 ICT graduate specialising in **Frontend Development** & currently an **Honours student in Software Engineering**
+🎓 ICT degree graduate specialising in **Frontend Development** & currently an **Honours student in Software Engineering**
 
 💻 Experience across **Frontend, Full-Stack and Backend Development**
 
 🌱 Constantly learning, experimenting and improving my craft
-
-🚀 Open to **interesting projects, collaborations and new ideas**
 
 <br>
 
