@@ -93,6 +93,22 @@
   alt="My Projects"
 />
 
+<br>
+
+### ✦ Explore My Projects ✦
+
+<a href="YOUR-PORTFOLIO-LINK-HERE">
+  <img
+    src="https://img.shields.io/badge/CLICK_HERE_TO_VIEW_MY_PROJECTS-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Click here to view my projects"
+  />
+</a>
+
+<br><br>
+
+</div>
+
+
 
 
 <!-- ===================================================== -->
