@@ -765,13 +765,13 @@ ending with a seamless underground THE END scene.
 
 
 <!-- ===================================================== -->
-<!--                 RUNNING PLAYER                        -->
+<!--          RUNNING + JUMPING PLAYER                     -->
 <!-- ===================================================== -->
 
 <g id="runner">
 
-  <!-- ===================== CHARACTER BODY ===================== -->
-  <g>
+  <!-- ===================== CHARACTER ===================== -->
+  <g id="runnerBody">
 
     <!-- hair -->
     <rect x="5" y="-56" width="34" height="38" rx="8" fill="#12051F"/>
@@ -793,7 +793,8 @@ ending with a seamless underground THE END scene.
     <!-- backpack -->
     <rect x="-2" y="-18" width="14" height="27" fill="#4C1D95"/>
 
-    <!-- ===================== LEFT ARM ===================== -->
+
+    <!-- ===================== ARMS ===================== -->
 
     <g>
       <rect x="2" y="-14" width="9" height="26" rx="3" fill="#C87964"/>
@@ -801,13 +802,11 @@ ending with a seamless underground THE END scene.
       <animateTransform
         attributeName="transform"
         type="rotate"
-        values="-28 7 -12;28 7 -12;-28 7 -12"
-        dur=".34s"
+        values="-30 7 -12;30 7 -12;-30 7 -12"
+        dur=".32s"
         repeatCount="indefinite"
       />
     </g>
-
-    <!-- ===================== RIGHT ARM ===================== -->
 
     <g>
       <rect x="37" y="-14" width="9" height="26" rx="3" fill="#C87964"/>
@@ -815,13 +814,14 @@ ending with a seamless underground THE END scene.
       <animateTransform
         attributeName="transform"
         type="rotate"
-        values="28 42 -12;-28 42 -12;28 42 -12"
-        dur=".34s"
+        values="30 42 -12;-30 42 -12;30 42 -12"
+        dur=".32s"
         repeatCount="indefinite"
       />
     </g>
 
-    <!-- ===================== LEFT LEG ===================== -->
+
+    <!-- ===================== LEGS ===================== -->
 
     <g>
       <rect x="10" y="14" width="10" height="23" fill="#151020"/>
@@ -830,13 +830,11 @@ ending with a seamless underground THE END scene.
       <animateTransform
         attributeName="transform"
         type="rotate"
-        values="24 15 14;-24 15 14;24 15 14"
-        dur=".34s"
+        values="26 15 14;-26 15 14;26 15 14"
+        dur=".32s"
         repeatCount="indefinite"
       />
     </g>
-
-    <!-- ===================== RIGHT LEG ===================== -->
 
     <g>
       <rect x="29" y="14" width="10" height="23" fill="#151020"/>
@@ -845,14 +843,14 @@ ending with a seamless underground THE END scene.
       <animateTransform
         attributeName="transform"
         type="rotate"
-        values="-24 34 14;24 34 14;-24 34 14"
-        dur=".34s"
+        values="-26 34 14;26 34 14;-26 34 14"
+        dur=".32s"
         repeatCount="indefinite"
       />
     </g>
 
-    <!-- ===================== BODY BOUNCE ===================== -->
 
+    <!-- body bounce while running -->
     <animateTransform
       attributeName="transform"
       type="translate"
@@ -863,7 +861,7 @@ ending with a seamless underground THE END scene.
         0 -2;
         0 0
       "
-      dur=".34s"
+      dur=".32s"
       repeatCount="indefinite"
       additive="sum"
     />
@@ -872,40 +870,111 @@ ending with a seamless underground THE END scene.
 
 
   <!-- ===================================================== -->
-  <!--               RUN ACROSS THE WORLD                  -->
+  <!--        FULL PLATFORMER PATH + JUMPS                   -->
   <!-- ===================================================== -->
 
+  <!-- horizontal movement -->
   <animateTransform
     attributeName="transform"
     type="translate"
+    additive="replace"
     values="
       300 292;
-      470 292;
-      620 292;
-      760 292;
-      900 292;
+      430 292;
+      520 292;
+      610 292;
+      700 292;
+      820 292;
+      910 292;
+      965 292;
       1030 292;
-      1165 292;
-      1280 292;
-      1360 292
+      1120 292;
+      1210 292;
+      1300 292;
+      1370 292
     "
     keyTimes="
       0;
-      .14;
-      .28;
-      .42;
-      .56;
-      .70;
+      .10;
+      .18;
+      .26;
+      .34;
+      .44;
+      .52;
+      .58;
+      .65;
+      .73;
       .82;
       .92;
       1
     "
-    dur="10s"
+    dur="12s"
+    repeatCount="indefinite"
+  />
+
+
+  <!-- vertical jump path -->
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    additive="sum"
+    values="
+      0 0;
+      0 0;
+
+      0 -15;
+      0 -60;
+      0 -95;
+      0 -55;
+      0 0;
+
+      0 0;
+      0 -20;
+      0 -72;
+      0 -105;
+      0 -70;
+      0 0;
+
+      0 0;
+      0 -18;
+      0 -55;
+      0 -85;
+      0 -50;
+      0 0;
+
+      0 0
+    "
+    keyTimes="
+      0;
+      .15;
+
+      .18;
+      .22;
+      .26;
+      .30;
+      .34;
+
+      .46;
+      .50;
+      .54;
+      .58;
+      .62;
+      .66;
+
+      .76;
+      .80;
+      .84;
+      .88;
+      .92;
+      .96;
+
+      1
+    "
+    dur="12s"
     repeatCount="indefinite"
   />
 
 </g>
-
 
 <!-- ===================================================== -->
 <!--                         CAT                           -->
