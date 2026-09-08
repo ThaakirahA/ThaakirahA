@@ -93,38 +93,6 @@
   alt="World of Akirah Designs - animated cyber pixel contribution world"
 />
 
-<br>
-
-<img
-  src="https://img.shields.io/badge/PLAYER-THAAKIRAH-A78BFA?style=for-the-badge&labelColor=17111F"
-  alt="Player Thaakirah"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/LEVEL-01-C084FC?style=for-the-badge&labelColor=17111F"
-  alt="Level 01"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/LIVES-%E2%99%A5_%E2%99%A5_%E2%99%A5-8B5CF6?style=for-the-badge&labelColor=17111F"
-  alt="Three lives"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/MODE-BUILD-6D28D9?style=for-the-badge&labelColor=17111F"
-  alt="Build mode"
-/>
-
-<br><br>
-
-<sub>
-  <code>THAAKIRAH'S PIXEL WORLD // LEARN • CODE • BUILD • REPEAT</code>
-</sub>
-
-<br>
-
-</div>
-
 <!-- ===================================================== -->
 <!--                       THE END                         -->
 <!-- ===================================================== -->
