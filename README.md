@@ -36,7 +36,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=500&height=50&lines=TECH+STACK" alt="Tech Stack" />
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=13&duration=2800&pause=900&letterSpacing=2px&color=8B5CF6&center=true&vCenter=true&width=550&height=25&lines=SYSTEM+LOADOUT+%2F%2F+STATUS%3A+ONLINE" alt="System loadout" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0416,50:4C1D95,100:0B0416&height=3&width=100%25" width="100%" alt="accent bar" />
 
